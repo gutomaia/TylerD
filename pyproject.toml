@@ -1,13 +1,14 @@
 [tool.poetry]
-name = "tyler"
+name = "tylerd"
 version = "0.0.0"
-description = "tyler"
+description = "tylerd"
 authors = ["Guto Maia <guto@guto.net>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 pillow = "^10.3.0"
 numpy = "^1.26.4"
+colr = "^0.9.1"
 
 [tool.poetry.group.dev.dependencies]
 bandit = "^1.7.8"
@@ -23,9 +24,17 @@ sphinx-autodoc-typehints = "^2.0.0"
 sphinxcontrib-plantuml = "^0.29"
 sphinx-rtd-theme = "^2.0.0"
 poetry-bumpversion = "^0.3.2"
+requests = "^2.31.0"
+bs4 = "^0.0.2"
+aiohttp = "^3.9.5"
+pytablewriter = "^1.2.0"
+ghp-import = "^2.1.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-[tool.poetry_bumpversion.file."applepy/__init__.py"]
+[tool.poetry_bumpversion.file."tylerd/__init__.py"]
+
+[tool.poetry.scripts]
+tylerd = "tylerd.__main__:main"

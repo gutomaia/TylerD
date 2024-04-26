@@ -1,11 +1,12 @@
 PLATFORM = $(shell uname)
+.PRECIOUS: %.s
 
-PROJECT_NAME=tyler
-PROJECT_TAG?=tyler
+PROJECT_NAME=Tylerd
+PROJECT_TAG?=tylerd
 PUBLIC_PROJECT=true
 GITHUB_DOMAIN=github.com
 GITHUB_TOKEN?=must be present on your env.mk, create in github at setting/user developer/external token with repo scope
-GITHUB_PROJECT=gutomaia/tyler
+GITHUB_PROJECT=gutomaia/TylerD
 MAKEFILE_SCRIPT_PATH=extras/makefiles
 MAKERY_REPOSITORY=gutomaia/makery
 MAKERY_SCRIPT=gutonet.mk
@@ -13,8 +14,8 @@ MAKERY_DEFAULT_TASK=default_makery
 MAKERY_BASE_URL=https://raw.githubusercontent.com/${MAKERY_REPOSITORY}/master
 
 PYTHON_VERSION?=3.11
-PYTHON_MODULES=tyler
-
+PYTHON_MODULES=tylerd
+HTML_PATH=docs/_build/html
 CFLAGS =-t nes -Oisr -g --include-dir neslib
 CC = cl65
 
@@ -24,6 +25,15 @@ OBJ = $(SRC:.c=.o)
 OBJ := $(OBJ:.s=.o)
 
 FCEUX = fceux
+FCEUX_ARGS = --loadlua screenshot.lua
+
+
+IMGS = $(wildcard assets/screens/*.png)
+TILES := $(patsubst assets/screens/%.png,output/%_tiles.s,$(IMGS))
+NES_FILES := $(patsubst assets/screens/%.png,output/%.nes,$(IMGS))
+SCREENSHOTS := $(patsubst assets/screens/%.png,output/%_screenshot.png,$(IMGS))
+EMULATED := $(patsubst assets/screens/%.png,output/%_emulated.png,$(IMGS))
+DIFFS := $(patsubst assets/screens/%.png,output/%_diff.png,$(IMGS))
 
 
 WGET=wget -q
@@ -97,45 +107,43 @@ neslib/Makefile.out: neslib/Makefile
 neslib/neslib2.lib: neslib/Makefile.out
 	$(MAKE) -C neslib -f Makefile.out neslib2.lib && touch $@
 
+download:
+	${VIRTUALENV} python scripts/download_assets.py assets/screens
+
 %.o: %.c
 	$(CC) -c $(CFLAGS) $< -o $@ --listing $<.lst
 
 %.o: %.s
 	$(CC) -c $(CFLAGS) $< -o $@ --listing $<.lst
 
-output/%_tiles.s: assets/screens/%_nes_title.png
-	${VIRTUALENV} tyler import_image $< -o $@ -b $@
-	touch $@
+output/%_tiles.s: assets/screens/%.png
+	${VIRTUALENV} echo $@ |  sed 's|.*/\(.*\)_tiles\.s|\1|' | xargs -I [] echo tylerd -p nes -f 2bpp_metatiles -b [] $< -o $@
+	${VIRTUALENV} echo $@ |  sed 's|.*/\(.*\)_tiles\.s|\1|' | xargs -I [] tylerd -p nes -f 2bpp_metatiles -b [] $< -o $@ && touch $@
 
-output/%.nes: assets/sources/%.c $(OBJ) output/%_tiles.o
-	$(CC) -o $@ -m $@.map $(CFLAGS) -C nes.cfg $<
+output/%_game.c:
+	${VIRTUALENV} echo $@ | sed 's|.*/\(.*\)_game\.c|\1|' | xargs -I [] python scripts/generate_source.py -o $@ -b []
 
-mario: output/mario.nes
-	${FCEUX} $<
+output/%.nes: output/%_game.c nes.cfg $(OBJ) output/%_tiles.o
+	@echo $@ | sed 's|.*/\(.*\)\.nes|\1|' | xargs -I [] $(CC) -o $@ -m $@.map $(CFLAGS) -C nes.cfg $< ${OBJ} output/[]_tiles.o
 
-bionic: output/bionic.nes
-	${FCEUX} $<
+output/%_emulated.png: output/%_tiles.s
+	${VIRTUALENV} python scripts/emulator_screen.py $< -o $@
 
-castlevania: output/castlevania.nes
-	${FCEUX} $<
+output/%_screenshot.png: output/%.nes
+	${FCEUX} $< ${FCEUX_ARGS}
 
-megaman: output/megaman.nes
-	${FCEUX} $<
+output/%_diff.png: output/%_emulated.png
+	${VIRTUALENV} echo $@ | sed 's|.*/\(.*\)_diff\.png|\1|' | xargs -I [] python scripts/compare.py assets/screens/[].png $< -o $@
 
-batman: output/batman.nes
-	${FCEUX} $<
+nes: ${NES_FILES}
 
-title: output/title.nes
-	${FCEUX} $< 
+screenshots: ${SCREENSHOTS}
 
-gameover: output/gameover.nes
-	${FCEUX} $<
+emulated: ${EMULATED}
 
-assets2: output/mario.nes \
-	output/castlevania.nes \
-	output/megaman.nes \
-	output/batman.nes
+diffs: ${DIFFS}
 
-assets: output/castlevania.nes
+results: ${TILES} ${NES_FILES} ${SCREENSHOTS} ${EMULATED}
 
-.PHONY: castlevania_tiles.s batman_tiles.s title_tiles.s gameover_tiles.s bionic_tiles.s
+site: ${REQUIREMENTS_TEST}
+	${VIRTUALENV} ghp-import -n -o -f -p $(HTML_PATH)
