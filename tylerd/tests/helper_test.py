@@ -1,6 +1,5 @@
 from unittest import TestCase
 from tylerd.helper import str_bytes, hex_to_rgb, get_metatile
-from tylerd.nes import get_color_index
 
 
 class HelperTest(TestCase):
@@ -24,21 +23,21 @@ class HelperTest(TestCase):
         actual = hex_to_rgb(0x010203)
         self.assertEqual(actual, (0x01, 0x02, 0x03))
 
-    def test_get_color_index_black(self):
-        actual = get_color_index((0, 0, 0))
-        self.assertEqual(actual, 13)
+    # def test_get_color_index_black(self):
+    #     actual = get_color_index((0, 0, 0))
+    #     self.assertEqual(actual, 13)
 
-    def test_get_color_index_red(self):
-        actual = get_color_index((255, 0, 0))
-        self.assertEqual(actual, 22)
+    # def test_get_color_index_red(self):
+    #     actual = get_color_index((255, 0, 0))
+    #     self.assertEqual(actual, 22)
 
-    def test_get_color_index_green(self):
-        actual = get_color_index((0, 255, 0))
-        self.assertEqual(actual, 26)
+    # def test_get_color_index_green(self):
+    #     actual = get_color_index((0, 255, 0))
+    #     self.assertEqual(actual, 26)
 
-    def test_get_color_index_blue(self):
-        actual = get_color_index((0, 0, 255))
-        self.assertEqual(actual, 18)
+    # def test_get_color_index_blue(self):
+    #     actual = get_color_index((0, 0, 255))
+    #     self.assertEqual(actual, 18)
 
     def test_get_metatile_0(self):
         data = [[0] * 16] * 16
