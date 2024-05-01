@@ -1,0 +1,496 @@
+Results i
+=========
+
+.. _i_can_remember:
+
+I Can Remember
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/i_can_remember.png|.. image:: ../output/i_can_remember_emulated.png|.. image:: ../output/i_can_remember_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/i_can_remember_diff.png
+
+.. literalinclude:: ../output/i_can_remember_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ice_climber:
+
+Ice Climber
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/ice_climber.png|.. image:: ../output/ice_climber_emulated.png|.. image:: ../output/ice_climber_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ice_climber_diff.png
+
+.. literalinclude:: ../output/ice_climber_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ice_hockey:
+
+Ice Hockey
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/ice_hockey.png|.. image:: ../output/ice_hockey_emulated.png|.. image:: ../output/ice_hockey_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ice_hockey_diff.png
+
+.. literalinclude:: ../output/ice_hockey_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ikari_iii_the_rescue:
+
+Ikari III - The Rescue
+======================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/ikari_iii_the_rescue.png|.. image:: ../output/ikari_iii_the_rescue_emulated.png|.. image:: ../output/ikari_iii_the_rescue_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ikari_iii_the_rescue_diff.png
+
+.. literalinclude:: ../output/ikari_iii_the_rescue_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ikari_warriors:
+
+Ikari Warriors
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/ikari_warriors.png|.. image:: ../output/ikari_warriors_emulated.png|.. image:: ../output/ikari_warriors_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ikari_warriors_diff.png
+
+.. literalinclude:: ../output/ikari_warriors_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ikari_warriors_ii_victory_road:
+
+Ikari Warriors II - Victory Road
+================================
+
+.. table::
+
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+    |                           Original                            |                            Emulated                            |                         FCEUX Screenshot                         |
+    +===============================================================+================================================================+==================================================================+
+    |.. image:: ../assets/screens/ikari_warriors_ii_victory_road.png|.. image:: ../output/ikari_warriors_ii_victory_road_emulated.png|.. image:: ../output/ikari_warriors_ii_victory_road_screenshot.png|
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ikari_warriors_ii_victory_road_diff.png
+
+.. literalinclude:: ../output/ikari_warriors_ii_victory_road_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _image_fight:
+
+Image Fight
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/image_fight.png|.. image:: ../output/image_fight_emulated.png|.. image:: ../output/image_fight_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/image_fight_diff.png
+
+.. literalinclude:: ../output/image_fight_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _immortal_the:
+
+Immortal, The
+=============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/immortal_the.png|.. image:: ../output/immortal_the_emulated.png|.. image:: ../output/immortal_the_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/immortal_the_diff.png
+
+.. literalinclude:: ../output/immortal_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _incredible_crash_dummies_the:
+
+Incredible Crash Dummies, The
+=============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/incredible_crash_dummies_the.png|.. image:: ../output/incredible_crash_dummies_the_emulated.png|.. image:: ../output/incredible_crash_dummies_the_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/incredible_crash_dummies_the_diff.png
+
+.. literalinclude:: ../output/incredible_crash_dummies_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _indiana_jones_and_the_last_crusade:
+
+Indiana Jones and the Last Crusade
+==================================
+
+.. table::
+
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+    |                             Original                              |                              Emulated                              |                           FCEUX Screenshot                           |
+    +===================================================================+====================================================================+======================================================================+
+    |.. image:: ../assets/screens/indiana_jones_and_the_last_crusade.png|.. image:: ../output/indiana_jones_and_the_last_crusade_emulated.png|.. image:: ../output/indiana_jones_and_the_last_crusade_screenshot.png|
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/indiana_jones_and_the_last_crusade_diff.png
+
+.. literalinclude:: ../output/indiana_jones_and_the_last_crusade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _indiana_jones_and_the_last_crusade_ubi_soft_:
+
+Indiana Jones and the Last Crusade (UBI Soft)
+=============================================
+
+.. table::
+
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+    |                                  Original                                   |                                   Emulated                                   |                                FCEUX Screenshot                                |
+    +=============================================================================+==============================================================================+================================================================================+
+    |.. image:: ../assets/screens/indiana_jones_and_the_last_crusade_ubi_soft_.png|.. image:: ../output/indiana_jones_and_the_last_crusade_ubi_soft__emulated.png|.. image:: ../output/indiana_jones_and_the_last_crusade_ubi_soft__screenshot.png|
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/indiana_jones_and_the_last_crusade_ubi_soft__diff.png
+
+.. literalinclude:: ../output/indiana_jones_and_the_last_crusade_ubi_soft__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _indiana_jones_and_the_temple_of_doom:
+
+Indiana Jones and the Temple of Doom
+====================================
+
+.. table::
+
+    +---------------------------------------------------------------------+----------------------------------------------------------------------+------------------------------------------------------------------------+
+    |                              Original                               |                               Emulated                               |                            FCEUX Screenshot                            |
+    +=====================================================================+======================================================================+========================================================================+
+    |.. image:: ../assets/screens/indiana_jones_and_the_temple_of_doom.png|.. image:: ../output/indiana_jones_and_the_temple_of_doom_emulated.png|.. image:: ../output/indiana_jones_and_the_temple_of_doom_screenshot.png|
+    +---------------------------------------------------------------------+----------------------------------------------------------------------+------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/indiana_jones_and_the_temple_of_doom_diff.png
+
+.. literalinclude:: ../output/indiana_jones_and_the_temple_of_doom_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _infiltrator:
+
+Infiltrator
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/infiltrator.png|.. image:: ../output/infiltrator_emulated.png|.. image:: ../output/infiltrator_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/infiltrator_diff.png
+
+.. literalinclude:: ../output/infiltrator_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _iron_tank_the_invasion_of_normandy:
+
+Iron Tank - The Invasion of Normandy
+====================================
+
+.. table::
+
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+    |                             Original                              |                              Emulated                              |                           FCEUX Screenshot                           |
+    +===================================================================+====================================================================+======================================================================+
+    |.. image:: ../assets/screens/iron_tank_the_invasion_of_normandy.png|.. image:: ../output/iron_tank_the_invasion_of_normandy_emulated.png|.. image:: ../output/iron_tank_the_invasion_of_normandy_screenshot.png|
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/iron_tank_the_invasion_of_normandy_diff.png
+
+.. literalinclude:: ../output/iron_tank_the_invasion_of_normandy_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ironsword_wizards_warriors_ii:
+
+Ironsword - Wizards & Warriors II
+=================================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/ironsword_wizards_warriors_ii.png|.. image:: ../output/ironsword_wizards_warriors_ii_emulated.png|.. image:: ../output/ironsword_wizards_warriors_ii_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ironsword_wizards_warriors_ii_diff.png
+
+.. literalinclude:: ../output/ironsword_wizards_warriors_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _isolated_warrior:
+
+Isolated Warrior
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/isolated_warrior.png|.. image:: ../output/isolated_warrior_emulated.png|.. image:: ../output/isolated_warrior_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/isolated_warrior_diff.png
+
+.. literalinclude:: ../output/isolated_warrior_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ivan_ironman_stewart_s_super_off_road:
+
+Ivan Ironman Stewart's Super Off-Road
+=====================================
+
+.. table::
+
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+    |                               Original                               |                               Emulated                                |                            FCEUX Screenshot                             |
+    +======================================================================+=======================================================================+=========================================================================+
+    |.. image:: ../assets/screens/ivan_ironman_stewart_s_super_off_road.png|.. image:: ../output/ivan_ironman_stewart_s_super_off_road_emulated.png|.. image:: ../output/ivan_ironman_stewart_s_super_off_road_screenshot.png|
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ivan_ironman_stewart_s_super_off_road_diff.png
+
+.. literalinclude:: ../output/ivan_ironman_stewart_s_super_off_road_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

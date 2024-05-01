@@ -1,0 +1,583 @@
+Results k
+=========
+
+.. _kabuki_quantum_fighter:
+
+Kabuki - Quantum Fighter
+========================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/kabuki_quantum_fighter.png|.. image:: ../output/kabuki_quantum_fighter_emulated.png|.. image:: ../output/kabuki_quantum_fighter_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kabuki_quantum_fighter_diff.png
+
+.. literalinclude:: ../output/kabuki_quantum_fighter_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _karate_champ:
+
+Karate Champ
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/karate_champ.png|.. image:: ../output/karate_champ_emulated.png|.. image:: ../output/karate_champ_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/karate_champ_diff.png
+
+.. literalinclude:: ../output/karate_champ_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _karate_kid_the:
+
+Karate Kid, The
+===============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/karate_kid_the.png|.. image:: ../output/karate_kid_the_emulated.png|.. image:: ../output/karate_kid_the_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/karate_kid_the_diff.png
+
+.. literalinclude:: ../output/karate_kid_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _karnov:
+
+Karnov
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/karnov.png|.. image:: ../output/karnov_emulated.png|.. image:: ../output/karnov_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/karnov_diff.png
+
+.. literalinclude:: ../output/karnov_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kick_master:
+
+Kick Master
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/kick_master.png|.. image:: ../output/kick_master_emulated.png|.. image:: ../output/kick_master_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kick_master_diff.png
+
+.. literalinclude:: ../output/kick_master_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kickle_cubicle:
+
+Kickle Cubicle
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/kickle_cubicle.png|.. image:: ../output/kickle_cubicle_emulated.png|.. image:: ../output/kickle_cubicle_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kickle_cubicle_diff.png
+
+.. literalinclude:: ../output/kickle_cubicle_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kid_klown:
+
+Kid Klown
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/kid_klown.png|.. image:: ../output/kid_klown_emulated.png|.. image:: ../output/kid_klown_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kid_klown_diff.png
+
+.. literalinclude:: ../output/kid_klown_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kid_kool_and_the_quest_for_the_7_wonder_herbs:
+
+Kid Kool and the Quest for the 7 Wonder Herbs
+=============================================
+
+.. table::
+
+    +------------------------------------------------------------------------------+-------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+    |                                   Original                                   |                                   Emulated                                    |                                FCEUX Screenshot                                 |
+    +==============================================================================+===============================================================================+=================================================================================+
+    |.. image:: ../assets/screens/kid_kool_and_the_quest_for_the_7_wonder_herbs.png|.. image:: ../output/kid_kool_and_the_quest_for_the_7_wonder_herbs_emulated.png|.. image:: ../output/kid_kool_and_the_quest_for_the_7_wonder_herbs_screenshot.png|
+    +------------------------------------------------------------------------------+-------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kid_kool_and_the_quest_for_the_7_wonder_herbs_diff.png
+
+.. literalinclude:: ../output/kid_kool_and_the_quest_for_the_7_wonder_herbs_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kid_niki_radical_ninja:
+
+Kid Niki - Radical Ninja
+========================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/kid_niki_radical_ninja.png|.. image:: ../output/kid_niki_radical_ninja_emulated.png|.. image:: ../output/kid_niki_radical_ninja_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kid_niki_radical_ninja_diff.png
+
+.. literalinclude:: ../output/kid_niki_radical_ninja_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _king_s_knight:
+
+King's Knight
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/king_s_knight.png|.. image:: ../output/king_s_knight_emulated.png|.. image:: ../output/king_s_knight_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/king_s_knight_diff.png
+
+.. literalinclude:: ../output/king_s_knight_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _king_s_quest_v:
+
+King's Quest V
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/king_s_quest_v.png|.. image:: ../output/king_s_quest_v_emulated.png|.. image:: ../output/king_s_quest_v_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/king_s_quest_v_diff.png
+
+.. literalinclude:: ../output/king_s_quest_v_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kings_of_the_beach:
+
+Kings of the Beach
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/kings_of_the_beach.png|.. image:: ../output/kings_of_the_beach_emulated.png|.. image:: ../output/kings_of_the_beach_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kings_of_the_beach_diff.png
+
+.. literalinclude:: ../output/kings_of_the_beach_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kirby_s_adventure:
+
+Kirby's Adventure
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/kirby_s_adventure.png|.. image:: ../output/kirby_s_adventure_emulated.png|.. image:: ../output/kirby_s_adventure_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kirby_s_adventure_diff.png
+
+.. literalinclude:: ../output/kirby_s_adventure_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kiwi_kraze_a_bird_brained_adventure_:
+
+Kiwi Kraze - A Bird-Brained Adventure!
+======================================
+
+.. table::
+
+    +---------------------------------------------------------------------+----------------------------------------------------------------------+------------------------------------------------------------------------+
+    |                              Original                               |                               Emulated                               |                            FCEUX Screenshot                            |
+    +=====================================================================+======================================================================+========================================================================+
+    |.. image:: ../assets/screens/kiwi_kraze_a_bird_brained_adventure_.png|.. image:: ../output/kiwi_kraze_a_bird_brained_adventure__emulated.png|.. image:: ../output/kiwi_kraze_a_bird_brained_adventure__screenshot.png|
+    +---------------------------------------------------------------------+----------------------------------------------------------------------+------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kiwi_kraze_a_bird_brained_adventure__diff.png
+
+.. literalinclude:: ../output/kiwi_kraze_a_bird_brained_adventure__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _klash_ball:
+
+Klash Ball
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/klash_ball.png|.. image:: ../output/klash_ball_emulated.png|.. image:: ../output/klash_ball_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/klash_ball_diff.png
+
+.. literalinclude:: ../output/klash_ball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _knight_rider:
+
+Knight Rider
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/knight_rider.png|.. image:: ../output/knight_rider_emulated.png|.. image:: ../output/knight_rider_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/knight_rider_diff.png
+
+.. literalinclude:: ../output/knight_rider_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _krion_conquest_the:
+
+Krion Conquest, The
+===================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/krion_conquest_the.png|.. image:: ../output/krion_conquest_the_emulated.png|.. image:: ../output/krion_conquest_the_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/krion_conquest_the_diff.png
+
+.. literalinclude:: ../output/krion_conquest_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _krusty_s_fun_house:
+
+Krusty's Fun House
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/krusty_s_fun_house.png|.. image:: ../output/krusty_s_fun_house_emulated.png|.. image:: ../output/krusty_s_fun_house_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/krusty_s_fun_house_diff.png
+
+.. literalinclude:: ../output/krusty_s_fun_house_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kung_fu:
+
+Kung Fu
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/kung_fu.png|.. image:: ../output/kung_fu_emulated.png|.. image:: ../output/kung_fu_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kung_fu_diff.png
+
+.. literalinclude:: ../output/kung_fu_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _kung_fu_heroes:
+
+Kung-Fu Heroes
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/kung_fu_heroes.png|.. image:: ../output/kung_fu_heroes_emulated.png|.. image:: ../output/kung_fu_heroes_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/kung_fu_heroes_diff.png
+
+.. literalinclude:: ../output/kung_fu_heroes_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

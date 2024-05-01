@@ -1,0 +1,235 @@
+Results u
+=========
+
+.. _ultima_exodus:
+
+Ultima - Exodus
+===============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/ultima_exodus.png|.. image:: ../output/ultima_exodus_emulated.png|.. image:: ../output/ultima_exodus_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ultima_exodus_diff.png
+
+.. literalinclude:: ../output/ultima_exodus_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ultima_quest_of_the_avatar:
+
+Ultima - Quest of the Avatar
+============================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/ultima_quest_of_the_avatar.png|.. image:: ../output/ultima_quest_of_the_avatar_emulated.png|.. image:: ../output/ultima_quest_of_the_avatar_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ultima_quest_of_the_avatar_diff.png
+
+.. literalinclude:: ../output/ultima_quest_of_the_avatar_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ultima_warriors_of_destiny:
+
+Ultima - Warriors of Destiny
+============================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/ultima_warriors_of_destiny.png|.. image:: ../output/ultima_warriors_of_destiny_emulated.png|.. image:: ../output/ultima_warriors_of_destiny_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ultima_warriors_of_destiny_diff.png
+
+.. literalinclude:: ../output/ultima_warriors_of_destiny_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ultimate_air_combat:
+
+Ultimate Air Combat
+===================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/ultimate_air_combat.png|.. image:: ../output/ultimate_air_combat_emulated.png|.. image:: ../output/ultimate_air_combat_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ultimate_air_combat_diff.png
+
+.. literalinclude:: ../output/ultimate_air_combat_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ultimate_basketball:
+
+Ultimate Basketball
+===================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/ultimate_basketball.png|.. image:: ../output/ultimate_basketball_emulated.png|.. image:: ../output/ultimate_basketball_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ultimate_basketball_diff.png
+
+.. literalinclude:: ../output/ultimate_basketball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _uncanny_x_men_the:
+
+Uncanny X-Men, The
+==================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/uncanny_x_men_the.png|.. image:: ../output/uncanny_x_men_the_emulated.png|.. image:: ../output/uncanny_x_men_the_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/uncanny_x_men_the_diff.png
+
+.. literalinclude:: ../output/uncanny_x_men_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _uninvited:
+
+Uninvited
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/uninvited.png|.. image:: ../output/uninvited_emulated.png|.. image:: ../output/uninvited_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/uninvited_diff.png
+
+.. literalinclude:: ../output/uninvited_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _untouchables_the:
+
+Untouchables, The
+=================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/untouchables_the.png|.. image:: ../output/untouchables_the_emulated.png|.. image:: ../output/untouchables_the_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/untouchables_the_diff.png
+
+.. literalinclude:: ../output/untouchables_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

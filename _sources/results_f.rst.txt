@@ -1,0 +1,612 @@
+Results f
+=========
+
+.. _f_117a_stealth_fighter:
+
+F-117A Stealth Fighter
+======================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/f_117a_stealth_fighter.png|.. image:: ../output/f_117a_stealth_fighter_emulated.png|.. image:: ../output/f_117a_stealth_fighter_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/f_117a_stealth_fighter_diff.png
+
+.. literalinclude:: ../output/f_117a_stealth_fighter_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _f_15_strike_eagle:
+
+F-15 Strike Eagle
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/f_15_strike_eagle.png|.. image:: ../output/f_15_strike_eagle_emulated.png|.. image:: ../output/f_15_strike_eagle_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/f_15_strike_eagle_diff.png
+
+.. literalinclude:: ../output/f_15_strike_eagle_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _family_feud:
+
+Family Feud
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/family_feud.png|.. image:: ../output/family_feud_emulated.png|.. image:: ../output/family_feud_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/family_feud_diff.png
+
+.. literalinclude:: ../output/family_feud_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _faria_a_world_of_mystery_danger_:
+
+Faria - A World of Mystery & Danger!
+====================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/faria_a_world_of_mystery_danger_.png|.. image:: ../output/faria_a_world_of_mystery_danger__emulated.png|.. image:: ../output/faria_a_world_of_mystery_danger__screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/faria_a_world_of_mystery_danger__diff.png
+
+.. literalinclude:: ../output/faria_a_world_of_mystery_danger__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _faxanadu:
+
+Faxanadu
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/faxanadu.png|.. image:: ../output/faxanadu_emulated.png|.. image:: ../output/faxanadu_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/faxanadu_diff.png
+
+.. literalinclude:: ../output/faxanadu_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _felix_the_cat:
+
+Felix the Cat
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/felix_the_cat.png|.. image:: ../output/felix_the_cat_emulated.png|.. image:: ../output/felix_the_cat_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/felix_the_cat_diff.png
+
+.. literalinclude:: ../output/felix_the_cat_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ferrari_grand_prix_challenge:
+
+Ferrari - Grand Prix Challenge
+==============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/ferrari_grand_prix_challenge.png|.. image:: ../output/ferrari_grand_prix_challenge_emulated.png|.. image:: ../output/ferrari_grand_prix_challenge_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ferrari_grand_prix_challenge_diff.png
+
+.. literalinclude:: ../output/ferrari_grand_prix_challenge_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _fester_s_quest:
+
+Fester's Quest
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/fester_s_quest.png|.. image:: ../output/fester_s_quest_emulated.png|.. image:: ../output/fester_s_quest_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/fester_s_quest_diff.png
+
+.. literalinclude:: ../output/fester_s_quest_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _final_fantasy:
+
+Final Fantasy
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/final_fantasy.png|.. image:: ../output/final_fantasy_emulated.png|.. image:: ../output/final_fantasy_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/final_fantasy_diff.png
+
+.. literalinclude:: ../output/final_fantasy_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _fire_n_ice:
+
+Fire 'n Ice
+===========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/fire_n_ice.png|.. image:: ../output/fire_n_ice_emulated.png|.. image:: ../output/fire_n_ice_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/fire_n_ice_diff.png
+
+.. literalinclude:: ../output/fire_n_ice_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _firehouse_rescue:
+
+Firehouse Rescue
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/firehouse_rescue.png|.. image:: ../output/firehouse_rescue_emulated.png|.. image:: ../output/firehouse_rescue_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/firehouse_rescue_diff.png
+
+.. literalinclude:: ../output/firehouse_rescue_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _fist_of_the_north_star:
+
+Fist of the North Star
+======================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/fist_of_the_north_star.png|.. image:: ../output/fist_of_the_north_star_emulated.png|.. image:: ../output/fist_of_the_north_star_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/fist_of_the_north_star_diff.png
+
+.. literalinclude:: ../output/fist_of_the_north_star_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _flight_of_the_intruder:
+
+Flight of the Intruder
+======================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/flight_of_the_intruder.png|.. image:: ../output/flight_of_the_intruder_emulated.png|.. image:: ../output/flight_of_the_intruder_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/flight_of_the_intruder_diff.png
+
+.. literalinclude:: ../output/flight_of_the_intruder_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _flintstones_the_the_rescue_of_dino_hoppy:
+
+Flintstones, The - The Rescue of Dino & Hoppy
+=============================================
+
+.. table::
+
+    +-------------------------------------------------------------------------+--------------------------------------------------------------------------+----------------------------------------------------------------------------+
+    |                                Original                                 |                                 Emulated                                 |                              FCEUX Screenshot                              |
+    +=========================================================================+==========================================================================+============================================================================+
+    |.. image:: ../assets/screens/flintstones_the_the_rescue_of_dino_hoppy.png|.. image:: ../output/flintstones_the_the_rescue_of_dino_hoppy_emulated.png|.. image:: ../output/flintstones_the_the_rescue_of_dino_hoppy_screenshot.png|
+    +-------------------------------------------------------------------------+--------------------------------------------------------------------------+----------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/flintstones_the_the_rescue_of_dino_hoppy_diff.png
+
+.. literalinclude:: ../output/flintstones_the_the_rescue_of_dino_hoppy_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _flintstones_the_the_surprise_at_dinosaur_peak_:
+
+Flintstones, The - The Surprise at Dinosaur Peak!
+=================================================
+
+.. table::
+
+    +-------------------------------------------------------------------------------+--------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
+    |                                   Original                                    |                                    Emulated                                    |                                 FCEUX Screenshot                                 |
+    +===============================================================================+================================================================================+==================================================================================+
+    |.. image:: ../assets/screens/flintstones_the_the_surprise_at_dinosaur_peak_.png|.. image:: ../output/flintstones_the_the_surprise_at_dinosaur_peak__emulated.png|.. image:: ../output/flintstones_the_the_surprise_at_dinosaur_peak__screenshot.png|
+    +-------------------------------------------------------------------------------+--------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/flintstones_the_the_surprise_at_dinosaur_peak__diff.png
+
+.. literalinclude:: ../output/flintstones_the_the_surprise_at_dinosaur_peak__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _flying_dragon_the_secret_scroll:
+
+Flying Dragon - The Secret Scroll
+=================================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/flying_dragon_the_secret_scroll.png|.. image:: ../output/flying_dragon_the_secret_scroll_emulated.png|.. image:: ../output/flying_dragon_the_secret_scroll_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/flying_dragon_the_secret_scroll_diff.png
+
+.. literalinclude:: ../output/flying_dragon_the_secret_scroll_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _formula_one_built_to_win:
+
+Formula One - Built To Win
+==========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/formula_one_built_to_win.png|.. image:: ../output/formula_one_built_to_win_emulated.png|.. image:: ../output/formula_one_built_to_win_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/formula_one_built_to_win_diff.png
+
+.. literalinclude:: ../output/formula_one_built_to_win_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _frankenstein_the_monster_returns:
+
+Frankenstein - The Monster Returns
+==================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/frankenstein_the_monster_returns.png|.. image:: ../output/frankenstein_the_monster_returns_emulated.png|.. image:: ../output/frankenstein_the_monster_returns_screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/frankenstein_the_monster_returns_diff.png
+
+.. literalinclude:: ../output/frankenstein_the_monster_returns_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _freedom_force:
+
+Freedom Force
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/freedom_force.png|.. image:: ../output/freedom_force_emulated.png|.. image:: ../output/freedom_force_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/freedom_force_diff.png
+
+.. literalinclude:: ../output/freedom_force_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _friday_the_13th:
+
+Friday the 13th
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/friday_the_13th.png|.. image:: ../output/friday_the_13th_emulated.png|.. image:: ../output/friday_the_13th_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/friday_the_13th_diff.png
+
+.. literalinclude:: ../output/friday_the_13th_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _fun_house:
+
+Fun House
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/fun_house.png|.. image:: ../output/fun_house_emulated.png|.. image:: ../output/fun_house_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/fun_house_diff.png
+
+.. literalinclude:: ../output/fun_house_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

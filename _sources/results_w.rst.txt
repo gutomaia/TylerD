@@ -1,0 +1,989 @@
+Results w
+=========
+
+.. _wcw_world_championship_wrestling:
+
+WCW World Championship Wrestling
+================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/wcw_world_championship_wrestling.png|.. image:: ../output/wcw_world_championship_wrestling_emulated.png|.. image:: ../output/wcw_world_championship_wrestling_screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wcw_world_championship_wrestling_diff.png
+
+.. literalinclude:: ../output/wcw_world_championship_wrestling_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wurm_journey_to_the_center_of_the_earth:
+
+WURM - Journey to the Center of the Earth
+=========================================
+
+.. table::
+
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+    |                                Original                                |                                Emulated                                 |                             FCEUX Screenshot                              |
+    +========================================================================+=========================================================================+===========================================================================+
+    |.. image:: ../assets/screens/wurm_journey_to_the_center_of_the_earth.png|.. image:: ../output/wurm_journey_to_the_center_of_the_earth_emulated.png|.. image:: ../output/wurm_journey_to_the_center_of_the_earth_screenshot.png|
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wurm_journey_to_the_center_of_the_earth_diff.png
+
+.. literalinclude:: ../output/wurm_journey_to_the_center_of_the_earth_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wwf_king_of_the_ring:
+
+WWF King of the Ring
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/wwf_king_of_the_ring.png|.. image:: ../output/wwf_king_of_the_ring_emulated.png|.. image:: ../output/wwf_king_of_the_ring_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wwf_king_of_the_ring_diff.png
+
+.. literalinclude:: ../output/wwf_king_of_the_ring_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wwf_wrestlemania:
+
+WWF WrestleMania
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/wwf_wrestlemania.png|.. image:: ../output/wwf_wrestlemania_emulated.png|.. image:: ../output/wwf_wrestlemania_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wwf_wrestlemania_diff.png
+
+.. literalinclude:: ../output/wwf_wrestlemania_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wwf_wrestlemania_steel_cage_challenge:
+
+WWF WrestleMania - Steel Cage Challenge
+=======================================
+
+.. table::
+
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+    |                               Original                               |                               Emulated                                |                            FCEUX Screenshot                             |
+    +======================================================================+=======================================================================+=========================================================================+
+    |.. image:: ../assets/screens/wwf_wrestlemania_steel_cage_challenge.png|.. image:: ../output/wwf_wrestlemania_steel_cage_challenge_emulated.png|.. image:: ../output/wwf_wrestlemania_steel_cage_challenge_screenshot.png|
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wwf_wrestlemania_steel_cage_challenge_diff.png
+
+.. literalinclude:: ../output/wwf_wrestlemania_steel_cage_challenge_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wwf_wrestlemania_challenge:
+
+WWF WrestleMania Challenge
+==========================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/wwf_wrestlemania_challenge.png|.. image:: ../output/wwf_wrestlemania_challenge_emulated.png|.. image:: ../output/wwf_wrestlemania_challenge_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wwf_wrestlemania_challenge_diff.png
+
+.. literalinclude:: ../output/wwf_wrestlemania_challenge_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wacky_races:
+
+Wacky Races
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/wacky_races.png|.. image:: ../output/wacky_races_emulated.png|.. image:: ../output/wacky_races_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wacky_races_diff.png
+
+.. literalinclude:: ../output/wacky_races_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wall_street_kid:
+
+Wall Street Kid
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/wall_street_kid.png|.. image:: ../output/wall_street_kid_emulated.png|.. image:: ../output/wall_street_kid_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wall_street_kid_diff.png
+
+.. literalinclude:: ../output/wall_street_kid_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wario_s_woods:
+
+Wario's Woods
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/wario_s_woods.png|.. image:: ../output/wario_s_woods_emulated.png|.. image:: ../output/wario_s_woods_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wario_s_woods_diff.png
+
+.. literalinclude:: ../output/wario_s_woods_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wayne_gretzky_hockey:
+
+Wayne Gretzky Hockey
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/wayne_gretzky_hockey.png|.. image:: ../output/wayne_gretzky_hockey_emulated.png|.. image:: ../output/wayne_gretzky_hockey_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wayne_gretzky_hockey_diff.png
+
+.. literalinclude:: ../output/wayne_gretzky_hockey_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wayne_s_world:
+
+Wayne's World
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/wayne_s_world.png|.. image:: ../output/wayne_s_world_emulated.png|.. image:: ../output/wayne_s_world_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wayne_s_world_diff.png
+
+.. literalinclude:: ../output/wayne_s_world_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _werewolf_the_last_warrior:
+
+Werewolf - The Last Warrior
+===========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/werewolf_the_last_warrior.png|.. image:: ../output/werewolf_the_last_warrior_emulated.png|.. image:: ../output/werewolf_the_last_warrior_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/werewolf_the_last_warrior_diff.png
+
+.. literalinclude:: ../output/werewolf_the_last_warrior_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wheel_of_fortune:
+
+Wheel of Fortune
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/wheel_of_fortune.png|.. image:: ../output/wheel_of_fortune_emulated.png|.. image:: ../output/wheel_of_fortune_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wheel_of_fortune_diff.png
+
+.. literalinclude:: ../output/wheel_of_fortune_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wheel_of_fortune_starring_vanna_white:
+
+Wheel of Fortune - Starring Vanna White
+=======================================
+
+.. table::
+
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+    |                               Original                               |                               Emulated                                |                            FCEUX Screenshot                             |
+    +======================================================================+=======================================================================+=========================================================================+
+    |.. image:: ../assets/screens/wheel_of_fortune_starring_vanna_white.png|.. image:: ../output/wheel_of_fortune_starring_vanna_white_emulated.png|.. image:: ../output/wheel_of_fortune_starring_vanna_white_screenshot.png|
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wheel_of_fortune_starring_vanna_white_diff.png
+
+.. literalinclude:: ../output/wheel_of_fortune_starring_vanna_white_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wheel_of_fortune_family_edition:
+
+Wheel of Fortune Family Edition
+===============================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/wheel_of_fortune_family_edition.png|.. image:: ../output/wheel_of_fortune_family_edition_emulated.png|.. image:: ../output/wheel_of_fortune_family_edition_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wheel_of_fortune_family_edition_diff.png
+
+.. literalinclude:: ../output/wheel_of_fortune_family_edition_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wheel_of_fortune_junior_edition:
+
+Wheel of Fortune Junior Edition
+===============================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/wheel_of_fortune_junior_edition.png|.. image:: ../output/wheel_of_fortune_junior_edition_emulated.png|.. image:: ../output/wheel_of_fortune_junior_edition_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wheel_of_fortune_junior_edition_diff.png
+
+.. literalinclude:: ../output/wheel_of_fortune_junior_edition_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _where_in_time_is_carmen_sandiego:
+
+Where in Time is Carmen Sandiego
+================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/where_in_time_is_carmen_sandiego.png|.. image:: ../output/where_in_time_is_carmen_sandiego_emulated.png|.. image:: ../output/where_in_time_is_carmen_sandiego_screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/where_in_time_is_carmen_sandiego_diff.png
+
+.. literalinclude:: ../output/where_in_time_is_carmen_sandiego_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _where_s_waldo:
+
+Where's Waldo
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/where_s_waldo.png|.. image:: ../output/where_s_waldo_emulated.png|.. image:: ../output/where_s_waldo_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/where_s_waldo_diff.png
+
+.. literalinclude:: ../output/where_s_waldo_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _who_framed_roger_rabbit:
+
+Who Framed Roger Rabbit
+=======================
+
+.. table::
+
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+    |                        Original                        |                        Emulated                         |                     FCEUX Screenshot                      |
+    +========================================================+=========================================================+===========================================================+
+    |.. image:: ../assets/screens/who_framed_roger_rabbit.png|.. image:: ../output/who_framed_roger_rabbit_emulated.png|.. image:: ../output/who_framed_roger_rabbit_screenshot.png|
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/who_framed_roger_rabbit_diff.png
+
+.. literalinclude:: ../output/who_framed_roger_rabbit_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _whomp_em:
+
+Whomp'Em
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/whomp_em.png|.. image:: ../output/whomp_em_emulated.png|.. image:: ../output/whomp_em_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/whomp_em_diff.png
+
+.. literalinclude:: ../output/whomp_em_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _widget:
+
+Widget
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/widget.png|.. image:: ../output/widget_emulated.png|.. image:: ../output/widget_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/widget_diff.png
+
+.. literalinclude:: ../output/widget_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wild_gunman:
+
+Wild Gunman
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/wild_gunman.png|.. image:: ../output/wild_gunman_emulated.png|.. image:: ../output/wild_gunman_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wild_gunman_diff.png
+
+.. literalinclude:: ../output/wild_gunman_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _willow:
+
+Willow
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/willow.png|.. image:: ../output/willow_emulated.png|.. image:: ../output/willow_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/willow_diff.png
+
+.. literalinclude:: ../output/willow_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _win_lose_or_draw:
+
+Win, Lose or Draw
+=================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/win_lose_or_draw.png|.. image:: ../output/win_lose_or_draw_emulated.png|.. image:: ../output/win_lose_or_draw_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/win_lose_or_draw_diff.png
+
+.. literalinclude:: ../output/win_lose_or_draw_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _winter_games:
+
+Winter Games
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/winter_games.png|.. image:: ../output/winter_games_emulated.png|.. image:: ../output/winter_games_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/winter_games_diff.png
+
+.. literalinclude:: ../output/winter_games_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wizardry_proving_grounds_of_the_mad_overlord:
+
+Wizardry - Proving Grounds of the Mad Overlord
+==============================================
+
+.. table::
+
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+    |                                  Original                                   |                                   Emulated                                   |                                FCEUX Screenshot                                |
+    +=============================================================================+==============================================================================+================================================================================+
+    |.. image:: ../assets/screens/wizardry_proving_grounds_of_the_mad_overlord.png|.. image:: ../output/wizardry_proving_grounds_of_the_mad_overlord_emulated.png|.. image:: ../output/wizardry_proving_grounds_of_the_mad_overlord_screenshot.png|
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wizardry_proving_grounds_of_the_mad_overlord_diff.png
+
+.. literalinclude:: ../output/wizardry_proving_grounds_of_the_mad_overlord_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wizardry_the_knight_of_diamonds:
+
+Wizardry - The Knight of Diamonds
+=================================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/wizardry_the_knight_of_diamonds.png|.. image:: ../output/wizardry_the_knight_of_diamonds_emulated.png|.. image:: ../output/wizardry_the_knight_of_diamonds_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wizardry_the_knight_of_diamonds_diff.png
+
+.. literalinclude:: ../output/wizardry_the_knight_of_diamonds_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wizards_warriors:
+
+Wizards & Warriors
+==================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/wizards_warriors.png|.. image:: ../output/wizards_warriors_emulated.png|.. image:: ../output/wizards_warriors_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wizards_warriors_diff.png
+
+.. literalinclude:: ../output/wizards_warriors_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wizards_warriors_iii_kuros_visions_of_power:
+
+Wizards & Warriors III - Kuros - Visions of Power
+=================================================
+
+.. table::
+
+    +----------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+    |                                  Original                                  |                                  Emulated                                   |                               FCEUX Screenshot                                |
+    +============================================================================+=============================================================================+===============================================================================+
+    |.. image:: ../assets/screens/wizards_warriors_iii_kuros_visions_of_power.png|.. image:: ../output/wizards_warriors_iii_kuros_visions_of_power_emulated.png|.. image:: ../output/wizards_warriors_iii_kuros_visions_of_power_screenshot.png|
+    +----------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wizards_warriors_iii_kuros_visions_of_power_diff.png
+
+.. literalinclude:: ../output/wizards_warriors_iii_kuros_visions_of_power_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wolverine:
+
+Wolverine
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/wolverine.png|.. image:: ../output/wolverine_emulated.png|.. image:: ../output/wolverine_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wolverine_diff.png
+
+.. literalinclude:: ../output/wolverine_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _world_champ:
+
+World Champ
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/world_champ.png|.. image:: ../output/world_champ_emulated.png|.. image:: ../output/world_champ_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/world_champ_diff.png
+
+.. literalinclude:: ../output/world_champ_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _world_class_track_meet:
+
+World Class Track Meet
+======================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/world_class_track_meet.png|.. image:: ../output/world_class_track_meet_emulated.png|.. image:: ../output/world_class_track_meet_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/world_class_track_meet_diff.png
+
+.. literalinclude:: ../output/world_class_track_meet_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _world_games:
+
+World Games
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/world_games.png|.. image:: ../output/world_games_emulated.png|.. image:: ../output/world_games_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/world_games_diff.png
+
+.. literalinclude:: ../output/world_games_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _wrath_of_the_black_manta:
+
+Wrath of the Black Manta
+========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/wrath_of_the_black_manta.png|.. image:: ../output/wrath_of_the_black_manta_emulated.png|.. image:: ../output/wrath_of_the_black_manta_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/wrath_of_the_black_manta_diff.png
+
+.. literalinclude:: ../output/wrath_of_the_black_manta_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

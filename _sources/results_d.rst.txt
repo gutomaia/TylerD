@@ -1,0 +1,1221 @@
+Results d
+=========
+
+.. _dance_aerobics:
+
+Dance Aerobics
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/dance_aerobics.png|.. image:: ../output/dance_aerobics_emulated.png|.. image:: ../output/dance_aerobics_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dance_aerobics_diff.png
+
+.. literalinclude:: ../output/dance_aerobics_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _danny_sullivan_s_indy_heat:
+
+Danny Sullivan's Indy Heat
+==========================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/danny_sullivan_s_indy_heat.png|.. image:: ../output/danny_sullivan_s_indy_heat_emulated.png|.. image:: ../output/danny_sullivan_s_indy_heat_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/danny_sullivan_s_indy_heat_diff.png
+
+.. literalinclude:: ../output/danny_sullivan_s_indy_heat_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _darkman:
+
+Darkman
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/darkman.png|.. image:: ../output/darkman_emulated.png|.. image:: ../output/darkman_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/darkman_diff.png
+
+.. literalinclude:: ../output/darkman_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _darkwing_duck:
+
+Darkwing Duck
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/darkwing_duck.png|.. image:: ../output/darkwing_duck_emulated.png|.. image:: ../output/darkwing_duck_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/darkwing_duck_diff.png
+
+.. literalinclude:: ../output/darkwing_duck_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dash_galaxy_in_the_alien_asylum:
+
+Dash Galaxy in the Alien Asylum
+===============================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/dash_galaxy_in_the_alien_asylum.png|.. image:: ../output/dash_galaxy_in_the_alien_asylum_emulated.png|.. image:: ../output/dash_galaxy_in_the_alien_asylum_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dash_galaxy_in_the_alien_asylum_diff.png
+
+.. literalinclude:: ../output/dash_galaxy_in_the_alien_asylum_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _day_dreamin_davey:
+
+Day Dreamin' Davey
+==================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/day_dreamin_davey.png|.. image:: ../output/day_dreamin_davey_emulated.png|.. image:: ../output/day_dreamin_davey_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/day_dreamin_davey_diff.png
+
+.. literalinclude:: ../output/day_dreamin_davey_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _days_of_thunder:
+
+Days of Thunder
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/days_of_thunder.png|.. image:: ../output/days_of_thunder_emulated.png|.. image:: ../output/days_of_thunder_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/days_of_thunder_diff.png
+
+.. literalinclude:: ../output/days_of_thunder_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _defender_ii:
+
+Defender II
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/defender_ii.png|.. image:: ../output/defender_ii_emulated.png|.. image:: ../output/defender_ii_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/defender_ii_diff.png
+
+.. literalinclude:: ../output/defender_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _defender_of_the_crown:
+
+Defender of the Crown
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/defender_of_the_crown.png|.. image:: ../output/defender_of_the_crown_emulated.png|.. image:: ../output/defender_of_the_crown_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/defender_of_the_crown_diff.png
+
+.. literalinclude:: ../output/defender_of_the_crown_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _defenders_of_dynatron_city:
+
+Defenders of Dynatron City
+==========================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/defenders_of_dynatron_city.png|.. image:: ../output/defenders_of_dynatron_city_emulated.png|.. image:: ../output/defenders_of_dynatron_city_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/defenders_of_dynatron_city_diff.png
+
+.. literalinclude:: ../output/defenders_of_dynatron_city_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _deja_vu:
+
+Deja Vu
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/deja_vu.png|.. image:: ../output/deja_vu_emulated.png|.. image:: ../output/deja_vu_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/deja_vu_diff.png
+
+.. literalinclude:: ../output/deja_vu_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _demon_sword:
+
+Demon Sword
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/demon_sword.png|.. image:: ../output/demon_sword_emulated.png|.. image:: ../output/demon_sword_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/demon_sword_diff.png
+
+.. literalinclude:: ../output/demon_sword_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _desert_commander:
+
+Desert Commander
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/desert_commander.png|.. image:: ../output/desert_commander_emulated.png|.. image:: ../output/desert_commander_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/desert_commander_diff.png
+
+.. literalinclude:: ../output/desert_commander_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _destiny_of_an_emperor:
+
+Destiny of an Emperor
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/destiny_of_an_emperor.png|.. image:: ../output/destiny_of_an_emperor_emulated.png|.. image:: ../output/destiny_of_an_emperor_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/destiny_of_an_emperor_diff.png
+
+.. literalinclude:: ../output/destiny_of_an_emperor_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dick_tracy:
+
+Dick Tracy
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/dick_tracy.png|.. image:: ../output/dick_tracy_emulated.png|.. image:: ../output/dick_tracy_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dick_tracy_diff.png
+
+.. literalinclude:: ../output/dick_tracy_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _die_hard:
+
+Die Hard
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/die_hard.png|.. image:: ../output/die_hard_emulated.png|.. image:: ../output/die_hard_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/die_hard_diff.png
+
+.. literalinclude:: ../output/die_hard_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dig_dug_ii_trouble_in_paradise:
+
+Dig Dug II - Trouble in Paradise
+================================
+
+.. table::
+
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+    |                           Original                            |                            Emulated                            |                         FCEUX Screenshot                         |
+    +===============================================================+================================================================+==================================================================+
+    |.. image:: ../assets/screens/dig_dug_ii_trouble_in_paradise.png|.. image:: ../output/dig_dug_ii_trouble_in_paradise_emulated.png|.. image:: ../output/dig_dug_ii_trouble_in_paradise_screenshot.png|
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dig_dug_ii_trouble_in_paradise_diff.png
+
+.. literalinclude:: ../output/dig_dug_ii_trouble_in_paradise_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _digger_the_legend_of_the_lost_city:
+
+Digger - The Legend of the Lost City
+====================================
+
+.. table::
+
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+    |                             Original                              |                              Emulated                              |                           FCEUX Screenshot                           |
+    +===================================================================+====================================================================+======================================================================+
+    |.. image:: ../assets/screens/digger_the_legend_of_the_lost_city.png|.. image:: ../output/digger_the_legend_of_the_lost_city_emulated.png|.. image:: ../output/digger_the_legend_of_the_lost_city_screenshot.png|
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/digger_the_legend_of_the_lost_city_diff.png
+
+.. literalinclude:: ../output/digger_the_legend_of_the_lost_city_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dirty_harry_the_war_against_drugs:
+
+Dirty Harry - The War Against Drugs
+===================================
+
+.. table::
+
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+    |                             Original                             |                             Emulated                              |                          FCEUX Screenshot                           |
+    +==================================================================+===================================================================+=====================================================================+
+    |.. image:: ../assets/screens/dirty_harry_the_war_against_drugs.png|.. image:: ../output/dirty_harry_the_war_against_drugs_emulated.png|.. image:: ../output/dirty_harry_the_war_against_drugs_screenshot.png|
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dirty_harry_the_war_against_drugs_diff.png
+
+.. literalinclude:: ../output/dirty_harry_the_war_against_drugs_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _donkey_kong_prg1_:
+
+Donkey Kong (PRG1)
+==================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/donkey_kong_prg1_.png|.. image:: ../output/donkey_kong_prg1__emulated.png|.. image:: ../output/donkey_kong_prg1__screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/donkey_kong_prg1__diff.png
+
+.. literalinclude:: ../output/donkey_kong_prg1__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _donkey_kong_3:
+
+Donkey Kong 3
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/donkey_kong_3.png|.. image:: ../output/donkey_kong_3_emulated.png|.. image:: ../output/donkey_kong_3_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/donkey_kong_3_diff.png
+
+.. literalinclude:: ../output/donkey_kong_3_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _donkey_kong_classics:
+
+Donkey Kong Classics
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/donkey_kong_classics.png|.. image:: ../output/donkey_kong_classics_emulated.png|.. image:: ../output/donkey_kong_classics_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/donkey_kong_classics_diff.png
+
+.. literalinclude:: ../output/donkey_kong_classics_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _donkey_kong_jr_:
+
+Donkey Kong Jr.
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/donkey_kong_jr_.png|.. image:: ../output/donkey_kong_jr__emulated.png|.. image:: ../output/donkey_kong_jr__screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/donkey_kong_jr__diff.png
+
+.. literalinclude:: ../output/donkey_kong_jr__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _donkey_kong_jr_math:
+
+Donkey Kong Jr. Math
+====================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/donkey_kong_jr_math.png|.. image:: ../output/donkey_kong_jr_math_emulated.png|.. image:: ../output/donkey_kong_jr_math_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/donkey_kong_jr_math_diff.png
+
+.. literalinclude:: ../output/donkey_kong_jr_math_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _double_dare:
+
+Double Dare
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/double_dare.png|.. image:: ../output/double_dare_emulated.png|.. image:: ../output/double_dare_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/double_dare_diff.png
+
+.. literalinclude:: ../output/double_dare_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _double_dragon:
+
+Double Dragon
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/double_dragon.png|.. image:: ../output/double_dragon_emulated.png|.. image:: ../output/double_dragon_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/double_dragon_diff.png
+
+.. literalinclude:: ../output/double_dragon_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _double_dragon_ii_the_revenge:
+
+Double Dragon II - The Revenge
+==============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/double_dragon_ii_the_revenge.png|.. image:: ../output/double_dragon_ii_the_revenge_emulated.png|.. image:: ../output/double_dragon_ii_the_revenge_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/double_dragon_ii_the_revenge_diff.png
+
+.. literalinclude:: ../output/double_dragon_ii_the_revenge_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _double_dragon_iii_the_sacred_stones:
+
+Double Dragon III - The Sacred Stones
+=====================================
+
+.. table::
+
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+    |                              Original                              |                              Emulated                               |                           FCEUX Screenshot                            |
+    +====================================================================+=====================================================================+=======================================================================+
+    |.. image:: ../assets/screens/double_dragon_iii_the_sacred_stones.png|.. image:: ../output/double_dragon_iii_the_sacred_stones_emulated.png|.. image:: ../output/double_dragon_iii_the_sacred_stones_screenshot.png|
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/double_dragon_iii_the_sacred_stones_diff.png
+
+.. literalinclude:: ../output/double_dragon_iii_the_sacred_stones_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _double_dribble:
+
+Double Dribble
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/double_dribble.png|.. image:: ../output/double_dribble_emulated.png|.. image:: ../output/double_dribble_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/double_dribble_diff.png
+
+.. literalinclude:: ../output/double_dribble_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dr_chaos:
+
+Dr. Chaos
+=========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/dr_chaos.png|.. image:: ../output/dr_chaos_emulated.png|.. image:: ../output/dr_chaos_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dr_chaos_diff.png
+
+.. literalinclude:: ../output/dr_chaos_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dr_jekyll_and_mr_hyde:
+
+Dr. Jekyll and Mr. Hyde
+=======================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/dr_jekyll_and_mr_hyde.png|.. image:: ../output/dr_jekyll_and_mr_hyde_emulated.png|.. image:: ../output/dr_jekyll_and_mr_hyde_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dr_jekyll_and_mr_hyde_diff.png
+
+.. literalinclude:: ../output/dr_jekyll_and_mr_hyde_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dr_mario:
+
+Dr. Mario
+=========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/dr_mario.png|.. image:: ../output/dr_mario_emulated.png|.. image:: ../output/dr_mario_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dr_mario_diff.png
+
+.. literalinclude:: ../output/dr_mario_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _drac_s_night_out:
+
+Drac's Night Out
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/drac_s_night_out.png|.. image:: ../output/drac_s_night_out_emulated.png|.. image:: ../output/drac_s_night_out_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/drac_s_night_out_diff.png
+
+.. literalinclude:: ../output/drac_s_night_out_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dragon_fighter:
+
+Dragon Fighter
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/dragon_fighter.png|.. image:: ../output/dragon_fighter_emulated.png|.. image:: ../output/dragon_fighter_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dragon_fighter_diff.png
+
+.. literalinclude:: ../output/dragon_fighter_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dragon_spirit_the_new_legend:
+
+Dragon Spirit - The New Legend
+==============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/dragon_spirit_the_new_legend.png|.. image:: ../output/dragon_spirit_the_new_legend_emulated.png|.. image:: ../output/dragon_spirit_the_new_legend_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dragon_spirit_the_new_legend_diff.png
+
+.. literalinclude:: ../output/dragon_spirit_the_new_legend_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dragon_warrior_ii:
+
+Dragon Warrior II
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/dragon_warrior_ii.png|.. image:: ../output/dragon_warrior_ii_emulated.png|.. image:: ../output/dragon_warrior_ii_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dragon_warrior_ii_diff.png
+
+.. literalinclude:: ../output/dragon_warrior_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dragon_s_lair:
+
+Dragon's Lair
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/dragon_s_lair.png|.. image:: ../output/dragon_s_lair_emulated.png|.. image:: ../output/dragon_s_lair_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dragon_s_lair_diff.png
+
+.. literalinclude:: ../output/dragon_s_lair_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _duck_tales:
+
+Duck Tales
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/duck_tales.png|.. image:: ../output/duck_tales_emulated.png|.. image:: ../output/duck_tales_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/duck_tales_diff.png
+
+.. literalinclude:: ../output/duck_tales_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _duck_tales_2:
+
+Duck Tales 2
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/duck_tales_2.png|.. image:: ../output/duck_tales_2_emulated.png|.. image:: ../output/duck_tales_2_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/duck_tales_2_diff.png
+
+.. literalinclude:: ../output/duck_tales_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dungeon_magic_sword_of_the_elements:
+
+Dungeon Magic - Sword of the Elements
+=====================================
+
+.. table::
+
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+    |                              Original                              |                              Emulated                               |                           FCEUX Screenshot                            |
+    +====================================================================+=====================================================================+=======================================================================+
+    |.. image:: ../assets/screens/dungeon_magic_sword_of_the_elements.png|.. image:: ../output/dungeon_magic_sword_of_the_elements_emulated.png|.. image:: ../output/dungeon_magic_sword_of_the_elements_screenshot.png|
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dungeon_magic_sword_of_the_elements_diff.png
+
+.. literalinclude:: ../output/dungeon_magic_sword_of_the_elements_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dusty_diamond_s_all_star_softball:
+
+Dusty Diamond's All-Star Softball
+=================================
+
+.. table::
+
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+    |                             Original                             |                             Emulated                              |                          FCEUX Screenshot                           |
+    +==================================================================+===================================================================+=====================================================================+
+    |.. image:: ../assets/screens/dusty_diamond_s_all_star_softball.png|.. image:: ../output/dusty_diamond_s_all_star_softball_emulated.png|.. image:: ../output/dusty_diamond_s_all_star_softball_screenshot.png|
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dusty_diamond_s_all_star_softball_diff.png
+
+.. literalinclude:: ../output/dusty_diamond_s_all_star_softball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _dynowarz_the_destruction_of_spondylus:
+
+Dynowarz - The Destruction of Spondylus
+=======================================
+
+.. table::
+
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+    |                               Original                               |                               Emulated                                |                            FCEUX Screenshot                             |
+    +======================================================================+=======================================================================+=========================================================================+
+    |.. image:: ../assets/screens/dynowarz_the_destruction_of_spondylus.png|.. image:: ../output/dynowarz_the_destruction_of_spondylus_emulated.png|.. image:: ../output/dynowarz_the_destruction_of_spondylus_screenshot.png|
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/dynowarz_the_destruction_of_spondylus_diff.png
+
+.. literalinclude:: ../output/dynowarz_the_destruction_of_spondylus_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

@@ -1,0 +1,902 @@
+Results g
+=========
+
+.. _g_i_joe:
+
+G.I. Joe
+========
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/g_i_joe.png|.. image:: ../output/g_i_joe_emulated.png|.. image:: ../output/g_i_joe_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/g_i_joe_diff.png
+
+.. literalinclude:: ../output/g_i_joe_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _g_i_joe_the_atlantis_factor:
+
+G.I. Joe - The Atlantis Factor
+==============================
+
+.. table::
+
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+    |                          Original                          |                          Emulated                           |                       FCEUX Screenshot                        |
+    +============================================================+=============================================================+===============================================================+
+    |.. image:: ../assets/screens/g_i_joe_the_atlantis_factor.png|.. image:: ../output/g_i_joe_the_atlantis_factor_emulated.png|.. image:: ../output/g_i_joe_the_atlantis_factor_screenshot.png|
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/g_i_joe_the_atlantis_factor_diff.png
+
+.. literalinclude:: ../output/g_i_joe_the_atlantis_factor_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _galaga_demons_of_death:
+
+Galaga - Demons of Death
+========================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/galaga_demons_of_death.png|.. image:: ../output/galaga_demons_of_death_emulated.png|.. image:: ../output/galaga_demons_of_death_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/galaga_demons_of_death_diff.png
+
+.. literalinclude:: ../output/galaga_demons_of_death_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _galaxy_5000:
+
+Galaxy 5000
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/galaxy_5000.png|.. image:: ../output/galaxy_5000_emulated.png|.. image:: ../output/galaxy_5000_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/galaxy_5000_diff.png
+
+.. literalinclude:: ../output/galaxy_5000_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gargoyle_s_quest_ii_the_demon_darkness:
+
+Gargoyle's Quest II - The Demon Darkness
+========================================
+
+.. table::
+
+    +-----------------------------------------------------------------------+------------------------------------------------------------------------+--------------------------------------------------------------------------+
+    |                               Original                                |                                Emulated                                |                             FCEUX Screenshot                             |
+    +=======================================================================+========================================================================+==========================================================================+
+    |.. image:: ../assets/screens/gargoyle_s_quest_ii_the_demon_darkness.png|.. image:: ../output/gargoyle_s_quest_ii_the_demon_darkness_emulated.png|.. image:: ../output/gargoyle_s_quest_ii_the_demon_darkness_screenshot.png|
+    +-----------------------------------------------------------------------+------------------------------------------------------------------------+--------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gargoyle_s_quest_ii_the_demon_darkness_diff.png
+
+.. literalinclude:: ../output/gargoyle_s_quest_ii_the_demon_darkness_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gauntlet:
+
+Gauntlet
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/gauntlet.png|.. image:: ../output/gauntlet_emulated.png|.. image:: ../output/gauntlet_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gauntlet_diff.png
+
+.. literalinclude:: ../output/gauntlet_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gauntlet_ii:
+
+Gauntlet II
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/gauntlet_ii.png|.. image:: ../output/gauntlet_ii_emulated.png|.. image:: ../output/gauntlet_ii_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gauntlet_ii_diff.png
+
+.. literalinclude:: ../output/gauntlet_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _genghis_khan:
+
+Genghis Khan
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/genghis_khan.png|.. image:: ../output/genghis_khan_emulated.png|.. image:: ../output/genghis_khan_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/genghis_khan_diff.png
+
+.. literalinclude:: ../output/genghis_khan_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _george_foreman_s_ko_boxing:
+
+George Foreman's KO Boxing
+==========================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/george_foreman_s_ko_boxing.png|.. image:: ../output/george_foreman_s_ko_boxing_emulated.png|.. image:: ../output/george_foreman_s_ko_boxing_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/george_foreman_s_ko_boxing_diff.png
+
+.. literalinclude:: ../output/george_foreman_s_ko_boxing_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ghostbusters:
+
+Ghostbusters
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/ghostbusters.png|.. image:: ../output/ghostbusters_emulated.png|.. image:: ../output/ghostbusters_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ghostbusters_diff.png
+
+.. literalinclude:: ../output/ghostbusters_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ghostbusters_ii:
+
+Ghostbusters II
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/ghostbusters_ii.png|.. image:: ../output/ghostbusters_ii_emulated.png|.. image:: ../output/ghostbusters_ii_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ghostbusters_ii_diff.png
+
+.. literalinclude:: ../output/ghostbusters_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ghosts_n_goblins:
+
+Ghosts 'N Goblins
+=================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/ghosts_n_goblins.png|.. image:: ../output/ghosts_n_goblins_emulated.png|.. image:: ../output/ghosts_n_goblins_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ghosts_n_goblins_diff.png
+
+.. literalinclude:: ../output/ghosts_n_goblins_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ghoul_school:
+
+Ghoul School
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/ghoul_school.png|.. image:: ../output/ghoul_school_emulated.png|.. image:: ../output/ghoul_school_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ghoul_school_diff.png
+
+.. literalinclude:: ../output/ghoul_school_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _goal_:
+
+Goal!
+=====
+
+.. table::
+
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+    |               Original               |               Emulated                |            FCEUX Screenshot             |
+    +======================================+=======================================+=========================================+
+    |.. image:: ../assets/screens/goal_.png|.. image:: ../output/goal__emulated.png|.. image:: ../output/goal__screenshot.png|
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/goal__diff.png
+
+.. literalinclude:: ../output/goal__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _godzilla_monster_of_monsters_:
+
+Godzilla - Monster of Monsters!
+===============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/godzilla_monster_of_monsters_.png|.. image:: ../output/godzilla_monster_of_monsters__emulated.png|.. image:: ../output/godzilla_monster_of_monsters__screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/godzilla_monster_of_monsters__diff.png
+
+.. literalinclude:: ../output/godzilla_monster_of_monsters__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _godzilla_2_war_of_the_monsters:
+
+Godzilla 2 - War of the Monsters
+================================
+
+.. table::
+
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+    |                           Original                            |                            Emulated                            |                         FCEUX Screenshot                         |
+    +===============================================================+================================================================+==================================================================+
+    |.. image:: ../assets/screens/godzilla_2_war_of_the_monsters.png|.. image:: ../output/godzilla_2_war_of_the_monsters_emulated.png|.. image:: ../output/godzilla_2_war_of_the_monsters_screenshot.png|
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/godzilla_2_war_of_the_monsters_diff.png
+
+.. literalinclude:: ../output/godzilla_2_war_of_the_monsters_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gold_medal_challenge_92:
+
+Gold Medal Challenge '92
+========================
+
+.. table::
+
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+    |                        Original                        |                        Emulated                         |                     FCEUX Screenshot                      |
+    +========================================================+=========================================================+===========================================================+
+    |.. image:: ../assets/screens/gold_medal_challenge_92.png|.. image:: ../output/gold_medal_challenge_92_emulated.png|.. image:: ../output/gold_medal_challenge_92_screenshot.png|
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gold_medal_challenge_92_diff.png
+
+.. literalinclude:: ../output/gold_medal_challenge_92_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _golf:
+
+Golf
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/golf.png|.. image:: ../output/golf_emulated.png|.. image:: ../output/golf_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/golf_diff.png
+
+.. literalinclude:: ../output/golf_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _golf_grand_slam:
+
+Golf Grand Slam
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/golf_grand_slam.png|.. image:: ../output/golf_grand_slam_emulated.png|.. image:: ../output/golf_grand_slam_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/golf_grand_slam_diff.png
+
+.. literalinclude:: ../output/golf_grand_slam_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _golgo_13_top_secret_episode:
+
+Golgo 13 - Top Secret Episode
+=============================
+
+.. table::
+
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+    |                          Original                          |                          Emulated                           |                       FCEUX Screenshot                        |
+    +============================================================+=============================================================+===============================================================+
+    |.. image:: ../assets/screens/golgo_13_top_secret_episode.png|.. image:: ../output/golgo_13_top_secret_episode_emulated.png|.. image:: ../output/golgo_13_top_secret_episode_screenshot.png|
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/golgo_13_top_secret_episode_diff.png
+
+.. literalinclude:: ../output/golgo_13_top_secret_episode_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _goonies_ii_the:
+
+Goonies II, The
+===============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/goonies_ii_the.png|.. image:: ../output/goonies_ii_the_emulated.png|.. image:: ../output/goonies_ii_the_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/goonies_ii_the_diff.png
+
+.. literalinclude:: ../output/goonies_ii_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gotcha_the_sport_:
+
+Gotcha! - The Sport!
+====================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/gotcha_the_sport_.png|.. image:: ../output/gotcha_the_sport__emulated.png|.. image:: ../output/gotcha_the_sport__screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gotcha_the_sport__diff.png
+
+.. literalinclude:: ../output/gotcha_the_sport__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gradius:
+
+Gradius
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/gradius.png|.. image:: ../output/gradius_emulated.png|.. image:: ../output/gradius_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gradius_diff.png
+
+.. literalinclude:: ../output/gradius_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _great_waldo_search_the:
+
+Great Waldo Search, The
+=======================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/great_waldo_search_the.png|.. image:: ../output/great_waldo_search_the_emulated.png|.. image:: ../output/great_waldo_search_the_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/great_waldo_search_the_diff.png
+
+.. literalinclude:: ../output/great_waldo_search_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _greg_norman_s_golf_power:
+
+Greg Norman's Golf Power
+========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/greg_norman_s_golf_power.png|.. image:: ../output/greg_norman_s_golf_power_emulated.png|.. image:: ../output/greg_norman_s_golf_power_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/greg_norman_s_golf_power_diff.png
+
+.. literalinclude:: ../output/greg_norman_s_golf_power_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gremlins_2_the_new_batch:
+
+Gremlins 2 - The New Batch
+==========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/gremlins_2_the_new_batch.png|.. image:: ../output/gremlins_2_the_new_batch_emulated.png|.. image:: ../output/gremlins_2_the_new_batch_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gremlins_2_the_new_batch_diff.png
+
+.. literalinclude:: ../output/gremlins_2_the_new_batch_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _guardian_legend_the:
+
+Guardian Legend, The
+====================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/guardian_legend_the.png|.. image:: ../output/guardian_legend_the_emulated.png|.. image:: ../output/guardian_legend_the_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/guardian_legend_the_diff.png
+
+.. literalinclude:: ../output/guardian_legend_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _guerrilla_war:
+
+Guerrilla War
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/guerrilla_war.png|.. image:: ../output/guerrilla_war_emulated.png|.. image:: ../output/guerrilla_war_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/guerrilla_war_diff.png
+
+.. literalinclude:: ../output/guerrilla_war_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gun_nac:
+
+Gun-Nac
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/gun_nac.png|.. image:: ../output/gun_nac_emulated.png|.. image:: ../output/gun_nac_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gun_nac_diff.png
+
+.. literalinclude:: ../output/gun_nac_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gun_smoke:
+
+Gun.Smoke
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/gun_smoke.png|.. image:: ../output/gun_smoke_emulated.png|.. image:: ../output/gun_smoke_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gun_smoke_diff.png
+
+.. literalinclude:: ../output/gun_smoke_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _gyruss:
+
+Gyruss
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/gyruss.png|.. image:: ../output/gyruss_emulated.png|.. image:: ../output/gyruss_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/gyruss_diff.png
+
+.. literalinclude:: ../output/gyruss_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

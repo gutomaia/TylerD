@@ -1,0 +1,90 @@
+Results e
+=========
+
+.. _elevator_action:
+
+Elevator Action
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/elevator_action.png|.. image:: ../output/elevator_action_emulated.png|.. image:: ../output/elevator_action_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/elevator_action_diff.png
+
+.. literalinclude:: ../output/elevator_action_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _eliminator_boat_duel:
+
+Eliminator Boat Duel
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/eliminator_boat_duel.png|.. image:: ../output/eliminator_boat_duel_emulated.png|.. image:: ../output/eliminator_boat_duel_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/eliminator_boat_duel_diff.png
+
+.. literalinclude:: ../output/eliminator_boat_duel_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _excitebike:
+
+Excitebike
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/excitebike.png|.. image:: ../output/excitebike_emulated.png|.. image:: ../output/excitebike_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/excitebike_diff.png
+
+.. literalinclude:: ../output/excitebike_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

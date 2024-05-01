@@ -1,0 +1,496 @@
+Results j
+=========
+
+.. _jack_nicklaus_greatest_18_holes_of_major_championship_golf:
+
+Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
+===========================================================
+
+.. table::
+
+    +-------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+    |                                         Original                                          |                                          Emulated                                          |                                       FCEUX Screenshot                                       |
+    +===========================================================================================+============================================================================================+==============================================================================================+
+    |.. image:: ../assets/screens/jack_nicklaus_greatest_18_holes_of_major_championship_golf.png|.. image:: ../output/jack_nicklaus_greatest_18_holes_of_major_championship_golf_emulated.png|.. image:: ../output/jack_nicklaus_greatest_18_holes_of_major_championship_golf_screenshot.png|
+    +-------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jack_nicklaus_greatest_18_holes_of_major_championship_golf_diff.png
+
+.. literalinclude:: ../output/jack_nicklaus_greatest_18_holes_of_major_championship_golf_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jackal:
+
+Jackal
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/jackal.png|.. image:: ../output/jackal_emulated.png|.. image:: ../output/jackal_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jackal_diff.png
+
+.. literalinclude:: ../output/jackal_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jackie_chan_s_action_kung_fu:
+
+Jackie Chan's Action Kung Fu
+============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/jackie_chan_s_action_kung_fu.png|.. image:: ../output/jackie_chan_s_action_kung_fu_emulated.png|.. image:: ../output/jackie_chan_s_action_kung_fu_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jackie_chan_s_action_kung_fu_diff.png
+
+.. literalinclude:: ../output/jackie_chan_s_action_kung_fu_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _james_bond_jr:
+
+James Bond Jr
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/james_bond_jr.png|.. image:: ../output/james_bond_jr_emulated.png|.. image:: ../output/james_bond_jr_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/james_bond_jr_diff.png
+
+.. literalinclude:: ../output/james_bond_jr_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jaws:
+
+Jaws
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/jaws.png|.. image:: ../output/jaws_emulated.png|.. image:: ../output/jaws_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jaws_diff.png
+
+.. literalinclude:: ../output/jaws_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jeopardy_:
+
+Jeopardy!
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/jeopardy_.png|.. image:: ../output/jeopardy__emulated.png|.. image:: ../output/jeopardy__screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jeopardy__diff.png
+
+.. literalinclude:: ../output/jeopardy__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jeopardy_25th_anniversary_edition:
+
+Jeopardy! 25th Anniversary Edition
+==================================
+
+.. table::
+
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+    |                             Original                             |                             Emulated                              |                          FCEUX Screenshot                           |
+    +==================================================================+===================================================================+=====================================================================+
+    |.. image:: ../assets/screens/jeopardy_25th_anniversary_edition.png|.. image:: ../output/jeopardy_25th_anniversary_edition_emulated.png|.. image:: ../output/jeopardy_25th_anniversary_edition_screenshot.png|
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jeopardy_25th_anniversary_edition_diff.png
+
+.. literalinclude:: ../output/jeopardy_25th_anniversary_edition_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jeopardy_junior_edition:
+
+Jeopardy! Junior Edition
+========================
+
+.. table::
+
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+    |                        Original                        |                        Emulated                         |                     FCEUX Screenshot                      |
+    +========================================================+=========================================================+===========================================================+
+    |.. image:: ../assets/screens/jeopardy_junior_edition.png|.. image:: ../output/jeopardy_junior_edition_emulated.png|.. image:: ../output/jeopardy_junior_edition_screenshot.png|
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jeopardy_junior_edition_diff.png
+
+.. literalinclude:: ../output/jeopardy_junior_edition_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jetsons_the_cogswell_s_caper_:
+
+Jetsons, The - Cogswell's Caper!
+================================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/jetsons_the_cogswell_s_caper_.png|.. image:: ../output/jetsons_the_cogswell_s_caper__emulated.png|.. image:: ../output/jetsons_the_cogswell_s_caper__screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jetsons_the_cogswell_s_caper__diff.png
+
+.. literalinclude:: ../output/jetsons_the_cogswell_s_caper__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jim_henson_s_muppet_adventure_chaos_at_the_carnival:
+
+Jim Henson's Muppet Adventure - Chaos at the Carnival
+=====================================================
+
+.. table::
+
+    +------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
+    |                                      Original                                      |                                      Emulated                                       |                                   FCEUX Screenshot                                    |
+    +====================================================================================+=====================================================================================+=======================================================================================+
+    |.. image:: ../assets/screens/jim_henson_s_muppet_adventure_chaos_at_the_carnival.png|.. image:: ../output/jim_henson_s_muppet_adventure_chaos_at_the_carnival_emulated.png|.. image:: ../output/jim_henson_s_muppet_adventure_chaos_at_the_carnival_screenshot.png|
+    +------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jim_henson_s_muppet_adventure_chaos_at_the_carnival_diff.png
+
+.. literalinclude:: ../output/jim_henson_s_muppet_adventure_chaos_at_the_carnival_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jimmy_connor_s_tennis:
+
+Jimmy Connor's Tennis
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/jimmy_connor_s_tennis.png|.. image:: ../output/jimmy_connor_s_tennis_emulated.png|.. image:: ../output/jimmy_connor_s_tennis_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jimmy_connor_s_tennis_diff.png
+
+.. literalinclude:: ../output/jimmy_connor_s_tennis_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _joe_mac_caveman_ninja:
+
+Joe & Mac - Caveman Ninja
+=========================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/joe_mac_caveman_ninja.png|.. image:: ../output/joe_mac_caveman_ninja_emulated.png|.. image:: ../output/joe_mac_caveman_ninja_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/joe_mac_caveman_ninja_diff.png
+
+.. literalinclude:: ../output/joe_mac_caveman_ninja_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jordan_vs_bird_one_on_one:
+
+Jordan Vs Bird - One On One
+===========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/jordan_vs_bird_one_on_one.png|.. image:: ../output/jordan_vs_bird_one_on_one_emulated.png|.. image:: ../output/jordan_vs_bird_one_on_one_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jordan_vs_bird_one_on_one_diff.png
+
+.. literalinclude:: ../output/jordan_vs_bird_one_on_one_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _journey_to_silius:
+
+Journey to Silius
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/journey_to_silius.png|.. image:: ../output/journey_to_silius_emulated.png|.. image:: ../output/journey_to_silius_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/journey_to_silius_diff.png
+
+.. literalinclude:: ../output/journey_to_silius_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _joust:
+
+Joust
+=====
+
+.. table::
+
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+    |               Original               |               Emulated                |            FCEUX Screenshot             |
+    +======================================+=======================================+=========================================+
+    |.. image:: ../assets/screens/joust.png|.. image:: ../output/joust_emulated.png|.. image:: ../output/joust_screenshot.png|
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/joust_diff.png
+
+.. literalinclude:: ../output/joust_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jungle_book_the:
+
+Jungle Book, The
+================
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/jungle_book_the.png|.. image:: ../output/jungle_book_the_emulated.png|.. image:: ../output/jungle_book_the_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jungle_book_the_diff.png
+
+.. literalinclude:: ../output/jungle_book_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _jurassic_park:
+
+Jurassic Park
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/jurassic_park.png|.. image:: ../output/jurassic_park_emulated.png|.. image:: ../output/jurassic_park_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/jurassic_park_diff.png
+
+.. literalinclude:: ../output/jurassic_park_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

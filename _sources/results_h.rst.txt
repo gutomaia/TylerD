@@ -1,0 +1,438 @@
+Results h
+=========
+
+.. _harlem_globetrotters:
+
+Harlem Globetrotters
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/harlem_globetrotters.png|.. image:: ../output/harlem_globetrotters_emulated.png|.. image:: ../output/harlem_globetrotters_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/harlem_globetrotters_diff.png
+
+.. literalinclude:: ../output/harlem_globetrotters_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hatris:
+
+Hatris
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/hatris.png|.. image:: ../output/hatris_emulated.png|.. image:: ../output/hatris_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hatris_diff.png
+
+.. literalinclude:: ../output/hatris_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _heavy_shreddin_:
+
+Heavy Shreddin'
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/heavy_shreddin_.png|.. image:: ../output/heavy_shreddin__emulated.png|.. image:: ../output/heavy_shreddin__screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/heavy_shreddin__diff.png
+
+.. literalinclude:: ../output/heavy_shreddin__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hero_quest:
+
+Hero Quest
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/hero_quest.png|.. image:: ../output/hero_quest_emulated.png|.. image:: ../output/hero_quest_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hero_quest_diff.png
+
+.. literalinclude:: ../output/hero_quest_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hollywood_squares:
+
+Hollywood Squares
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/hollywood_squares.png|.. image:: ../output/hollywood_squares_emulated.png|.. image:: ../output/hollywood_squares_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hollywood_squares_diff.png
+
+.. literalinclude:: ../output/hollywood_squares_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _home_alone:
+
+Home Alone
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/home_alone.png|.. image:: ../output/home_alone_emulated.png|.. image:: ../output/home_alone_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/home_alone_diff.png
+
+.. literalinclude:: ../output/home_alone_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _home_alone_2_lost_in_new_york:
+
+Home Alone 2 - Lost in New York
+===============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/home_alone_2_lost_in_new_york.png|.. image:: ../output/home_alone_2_lost_in_new_york_emulated.png|.. image:: ../output/home_alone_2_lost_in_new_york_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/home_alone_2_lost_in_new_york_diff.png
+
+.. literalinclude:: ../output/home_alone_2_lost_in_new_york_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hook:
+
+Hook
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/hook.png|.. image:: ../output/hook_emulated.png|.. image:: ../output/hook_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hook_diff.png
+
+.. literalinclude:: ../output/hook_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hoops:
+
+Hoops
+=====
+
+.. table::
+
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+    |               Original               |               Emulated                |            FCEUX Screenshot             |
+    +======================================+=======================================+=========================================+
+    |.. image:: ../assets/screens/hoops.png|.. image:: ../output/hoops_emulated.png|.. image:: ../output/hoops_screenshot.png|
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hoops_diff.png
+
+.. literalinclude:: ../output/hoops_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hudson_hawk:
+
+Hudson Hawk
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/hudson_hawk.png|.. image:: ../output/hudson_hawk_emulated.png|.. image:: ../output/hudson_hawk_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hudson_hawk_diff.png
+
+.. literalinclude:: ../output/hudson_hawk_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hudson_s_adventure_island:
+
+Hudson's Adventure Island
+=========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/hudson_s_adventure_island.png|.. image:: ../output/hudson_s_adventure_island_emulated.png|.. image:: ../output/hudson_s_adventure_island_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hudson_s_adventure_island_diff.png
+
+.. literalinclude:: ../output/hudson_s_adventure_island_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hudson_s_adventure_island_ii:
+
+Hudson's Adventure Island II
+============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/hudson_s_adventure_island_ii.png|.. image:: ../output/hudson_s_adventure_island_ii_emulated.png|.. image:: ../output/hudson_s_adventure_island_ii_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hudson_s_adventure_island_ii_diff.png
+
+.. literalinclude:: ../output/hudson_s_adventure_island_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hudson_s_adventure_island_iii:
+
+Hudson's Adventure Island III
+=============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/hudson_s_adventure_island_iii.png|.. image:: ../output/hudson_s_adventure_island_iii_emulated.png|.. image:: ../output/hudson_s_adventure_island_iii_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hudson_s_adventure_island_iii_diff.png
+
+.. literalinclude:: ../output/hudson_s_adventure_island_iii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hunt_for_red_october_the:
+
+Hunt for Red October, The
+=========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/hunt_for_red_october_the.png|.. image:: ../output/hunt_for_red_october_the_emulated.png|.. image:: ../output/hunt_for_red_october_the_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hunt_for_red_october_the_diff.png
+
+.. literalinclude:: ../output/hunt_for_red_october_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _hydlide:
+
+Hydlide
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/hydlide.png|.. image:: ../output/hydlide_emulated.png|.. image:: ../output/hydlide_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/hydlide_diff.png
+
+.. literalinclude:: ../output/hydlide_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

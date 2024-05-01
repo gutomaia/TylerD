@@ -1,0 +1,1424 @@
+Results t
+=========
+
+.. _t_c_2_thrilla_s_surfari:
+
+T&C 2 - Thrilla's Surfari
+=========================
+
+.. table::
+
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+    |                        Original                        |                        Emulated                         |                     FCEUX Screenshot                      |
+    +========================================================+=========================================================+===========================================================+
+    |.. image:: ../assets/screens/t_c_2_thrilla_s_surfari.png|.. image:: ../output/t_c_2_thrilla_s_surfari_emulated.png|.. image:: ../output/t_c_2_thrilla_s_surfari_screenshot.png|
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/t_c_2_thrilla_s_surfari_diff.png
+
+.. literalinclude:: ../output/t_c_2_thrilla_s_surfari_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _t_c_surf_design:
+
+T&C Surf Design
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/t_c_surf_design.png|.. image:: ../output/t_c_surf_design_emulated.png|.. image:: ../output/t_c_surf_design_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/t_c_surf_design_diff.png
+
+.. literalinclude:: ../output/t_c_surf_design_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _taboo_the_sixth_sense:
+
+Taboo - The Sixth Sense
+=======================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/taboo_the_sixth_sense.png|.. image:: ../output/taboo_the_sixth_sense_emulated.png|.. image:: ../output/taboo_the_sixth_sense_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/taboo_the_sixth_sense_diff.png
+
+.. literalinclude:: ../output/taboo_the_sixth_sense_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tag_team_wrestling:
+
+Tag Team Wrestling
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/tag_team_wrestling.png|.. image:: ../output/tag_team_wrestling_emulated.png|.. image:: ../output/tag_team_wrestling_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tag_team_wrestling_diff.png
+
+.. literalinclude:: ../output/tag_team_wrestling_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _talespin:
+
+TaleSpin
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/talespin.png|.. image:: ../output/talespin_emulated.png|.. image:: ../output/talespin_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/talespin_diff.png
+
+.. literalinclude:: ../output/talespin_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _target_renegade:
+
+Target - Renegade
+=================
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/target_renegade.png|.. image:: ../output/target_renegade_emulated.png|.. image:: ../output/target_renegade_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/target_renegade_diff.png
+
+.. literalinclude:: ../output/target_renegade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_baseball:
+
+Tecmo Baseball
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/tecmo_baseball.png|.. image:: ../output/tecmo_baseball_emulated.png|.. image:: ../output/tecmo_baseball_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_baseball_diff.png
+
+.. literalinclude:: ../output/tecmo_baseball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_bowl:
+
+Tecmo Bowl
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/tecmo_bowl.png|.. image:: ../output/tecmo_bowl_emulated.png|.. image:: ../output/tecmo_bowl_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_bowl_diff.png
+
+.. literalinclude:: ../output/tecmo_bowl_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_cup_soccer_game:
+
+Tecmo Cup - Soccer Game
+=======================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/tecmo_cup_soccer_game.png|.. image:: ../output/tecmo_cup_soccer_game_emulated.png|.. image:: ../output/tecmo_cup_soccer_game_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_cup_soccer_game_diff.png
+
+.. literalinclude:: ../output/tecmo_cup_soccer_game_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_nba_basketball:
+
+Tecmo NBA Basketball
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/tecmo_nba_basketball.png|.. image:: ../output/tecmo_nba_basketball_emulated.png|.. image:: ../output/tecmo_nba_basketball_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_nba_basketball_diff.png
+
+.. literalinclude:: ../output/tecmo_nba_basketball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_super_bowl:
+
+Tecmo Super Bowl
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/tecmo_super_bowl.png|.. image:: ../output/tecmo_super_bowl_emulated.png|.. image:: ../output/tecmo_super_bowl_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_super_bowl_diff.png
+
+.. literalinclude:: ../output/tecmo_super_bowl_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tecmo_world_wrestling:
+
+Tecmo World Wrestling
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/tecmo_world_wrestling.png|.. image:: ../output/tecmo_world_wrestling_emulated.png|.. image:: ../output/tecmo_world_wrestling_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tecmo_world_wrestling_diff.png
+
+.. literalinclude:: ../output/tecmo_world_wrestling_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _teenage_mutant_ninja_turtles:
+
+Teenage Mutant Ninja Turtles
+============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/teenage_mutant_ninja_turtles.png|.. image:: ../output/teenage_mutant_ninja_turtles_emulated.png|.. image:: ../output/teenage_mutant_ninja_turtles_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/teenage_mutant_ninja_turtles_diff.png
+
+.. literalinclude:: ../output/teenage_mutant_ninja_turtles_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _teenage_mutant_ninja_turtles_tournament_fighters:
+
+Teenage Mutant Ninja Turtles - Tournament Fighters
+==================================================
+
+.. table::
+
+    +---------------------------------------------------------------------------------+----------------------------------------------------------------------------------+------------------------------------------------------------------------------------+
+    |                                    Original                                     |                                     Emulated                                     |                                  FCEUX Screenshot                                  |
+    +=================================================================================+==================================================================================+====================================================================================+
+    |.. image:: ../assets/screens/teenage_mutant_ninja_turtles_tournament_fighters.png|.. image:: ../output/teenage_mutant_ninja_turtles_tournament_fighters_emulated.png|.. image:: ../output/teenage_mutant_ninja_turtles_tournament_fighters_screenshot.png|
+    +---------------------------------------------------------------------------------+----------------------------------------------------------------------------------+------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/teenage_mutant_ninja_turtles_tournament_fighters_diff.png
+
+.. literalinclude:: ../output/teenage_mutant_ninja_turtles_tournament_fighters_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _teenage_mutant_ninja_turtles_ii_the_arcade_game:
+
+Teenage Mutant Ninja Turtles II - The Arcade Game
+=================================================
+
+.. table::
+
+    +--------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+    |                                    Original                                    |                                    Emulated                                     |                                 FCEUX Screenshot                                  |
+    +================================================================================+=================================================================================+===================================================================================+
+    |.. image:: ../assets/screens/teenage_mutant_ninja_turtles_ii_the_arcade_game.png|.. image:: ../output/teenage_mutant_ninja_turtles_ii_the_arcade_game_emulated.png|.. image:: ../output/teenage_mutant_ninja_turtles_ii_the_arcade_game_screenshot.png|
+    +--------------------------------------------------------------------------------+---------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/teenage_mutant_ninja_turtles_ii_the_arcade_game_diff.png
+
+.. literalinclude:: ../output/teenage_mutant_ninja_turtles_ii_the_arcade_game_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _teenage_mutant_ninja_turtles_iii_the_manhattan_project:
+
+Teenage Mutant Ninja Turtles III - The Manhattan Project
+========================================================
+
+.. table::
+
+    +---------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+    |                                       Original                                        |                                        Emulated                                        |                                     FCEUX Screenshot                                     |
+    +=======================================================================================+========================================================================================+==========================================================================================+
+    |.. image:: ../assets/screens/teenage_mutant_ninja_turtles_iii_the_manhattan_project.png|.. image:: ../output/teenage_mutant_ninja_turtles_iii_the_manhattan_project_emulated.png|.. image:: ../output/teenage_mutant_ninja_turtles_iii_the_manhattan_project_screenshot.png|
+    +---------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/teenage_mutant_ninja_turtles_iii_the_manhattan_project_diff.png
+
+.. literalinclude:: ../output/teenage_mutant_ninja_turtles_iii_the_manhattan_project_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tennis:
+
+Tennis
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/tennis.png|.. image:: ../output/tennis_emulated.png|.. image:: ../output/tennis_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tennis_diff.png
+
+.. literalinclude:: ../output/tennis_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _terminator_2_judgment_day:
+
+Terminator 2 - Judgment Day
+===========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/terminator_2_judgment_day.png|.. image:: ../output/terminator_2_judgment_day_emulated.png|.. image:: ../output/terminator_2_judgment_day_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/terminator_2_judgment_day_diff.png
+
+.. literalinclude:: ../output/terminator_2_judgment_day_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _terminator_the:
+
+Terminator, The
+===============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/terminator_the.png|.. image:: ../output/terminator_the_emulated.png|.. image:: ../output/terminator_the_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/terminator_the_diff.png
+
+.. literalinclude:: ../output/terminator_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _terra_cresta:
+
+Terra Cresta
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/terra_cresta.png|.. image:: ../output/terra_cresta_emulated.png|.. image:: ../output/terra_cresta_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/terra_cresta_diff.png
+
+.. literalinclude:: ../output/terra_cresta_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tetris:
+
+Tetris
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/tetris.png|.. image:: ../output/tetris_emulated.png|.. image:: ../output/tetris_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tetris_diff.png
+
+.. literalinclude:: ../output/tetris_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tetris_2:
+
+Tetris 2
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/tetris_2.png|.. image:: ../output/tetris_2_emulated.png|.. image:: ../output/tetris_2_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tetris_2_diff.png
+
+.. literalinclude:: ../output/tetris_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _three_stooges:
+
+Three Stooges
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/three_stooges.png|.. image:: ../output/three_stooges_emulated.png|.. image:: ../output/three_stooges_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/three_stooges_diff.png
+
+.. literalinclude:: ../output/three_stooges_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _thunderbirds:
+
+Thunderbirds
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/thunderbirds.png|.. image:: ../output/thunderbirds_emulated.png|.. image:: ../output/thunderbirds_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/thunderbirds_diff.png
+
+.. literalinclude:: ../output/thunderbirds_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _thundercade:
+
+Thundercade
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/thundercade.png|.. image:: ../output/thundercade_emulated.png|.. image:: ../output/thundercade_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/thundercade_diff.png
+
+.. literalinclude:: ../output/thundercade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tiger_heli:
+
+Tiger-Heli
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/tiger_heli.png|.. image:: ../output/tiger_heli_emulated.png|.. image:: ../output/tiger_heli_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tiger_heli_diff.png
+
+.. literalinclude:: ../output/tiger_heli_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _time_lord:
+
+Time Lord
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/time_lord.png|.. image:: ../output/time_lord_emulated.png|.. image:: ../output/time_lord_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/time_lord_diff.png
+
+.. literalinclude:: ../output/time_lord_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _times_of_lore:
+
+Times of Lore
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/times_of_lore.png|.. image:: ../output/times_of_lore_emulated.png|.. image:: ../output/times_of_lore_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/times_of_lore_diff.png
+
+.. literalinclude:: ../output/times_of_lore_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tiny_toon_adventures:
+
+Tiny Toon Adventures
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/tiny_toon_adventures.png|.. image:: ../output/tiny_toon_adventures_emulated.png|.. image:: ../output/tiny_toon_adventures_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tiny_toon_adventures_diff.png
+
+.. literalinclude:: ../output/tiny_toon_adventures_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tiny_toon_adventures_2_trouble_in_wackyland:
+
+Tiny Toon Adventures 2 - Trouble in Wackyland
+=============================================
+
+.. table::
+
+    +----------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+    |                                  Original                                  |                                  Emulated                                   |                               FCEUX Screenshot                                |
+    +============================================================================+=============================================================================+===============================================================================+
+    |.. image:: ../assets/screens/tiny_toon_adventures_2_trouble_in_wackyland.png|.. image:: ../output/tiny_toon_adventures_2_trouble_in_wackyland_emulated.png|.. image:: ../output/tiny_toon_adventures_2_trouble_in_wackyland_screenshot.png|
+    +----------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tiny_toon_adventures_2_trouble_in_wackyland_diff.png
+
+.. literalinclude:: ../output/tiny_toon_adventures_2_trouble_in_wackyland_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tiny_toon_adventures_cartoon_workshop:
+
+Tiny Toon Adventures Cartoon Workshop
+=====================================
+
+.. table::
+
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+    |                               Original                               |                               Emulated                                |                            FCEUX Screenshot                             |
+    +======================================================================+=======================================================================+=========================================================================+
+    |.. image:: ../assets/screens/tiny_toon_adventures_cartoon_workshop.png|.. image:: ../output/tiny_toon_adventures_cartoon_workshop_emulated.png|.. image:: ../output/tiny_toon_adventures_cartoon_workshop_screenshot.png|
+    +----------------------------------------------------------------------+-----------------------------------------------------------------------+-------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tiny_toon_adventures_cartoon_workshop_diff.png
+
+.. literalinclude:: ../output/tiny_toon_adventures_cartoon_workshop_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _to_the_earth:
+
+To The Earth
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/to_the_earth.png|.. image:: ../output/to_the_earth_emulated.png|.. image:: ../output/to_the_earth_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/to_the_earth_diff.png
+
+.. literalinclude:: ../output/to_the_earth_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _toki:
+
+Toki
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/toki.png|.. image:: ../output/toki_emulated.png|.. image:: ../output/toki_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/toki_diff.png
+
+.. literalinclude:: ../output/toki_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tom_jerry:
+
+Tom & Jerry
+===========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/tom_jerry.png|.. image:: ../output/tom_jerry_emulated.png|.. image:: ../output/tom_jerry_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tom_jerry_diff.png
+
+.. literalinclude:: ../output/tom_jerry_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _tombs_treasure:
+
+Tombs & Treasure
+================
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/tombs_treasure.png|.. image:: ../output/tombs_treasure_emulated.png|.. image:: ../output/tombs_treasure_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/tombs_treasure_diff.png
+
+.. literalinclude:: ../output/tombs_treasure_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _top_gun:
+
+Top Gun
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/top_gun.png|.. image:: ../output/top_gun_emulated.png|.. image:: ../output/top_gun_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/top_gun_diff.png
+
+.. literalinclude:: ../output/top_gun_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _top_gun_the_second_mission:
+
+Top Gun - The Second Mission
+============================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/top_gun_the_second_mission.png|.. image:: ../output/top_gun_the_second_mission_emulated.png|.. image:: ../output/top_gun_the_second_mission_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/top_gun_the_second_mission_diff.png
+
+.. literalinclude:: ../output/top_gun_the_second_mission_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _top_players_tennis_featuring_chris_evert_ivan_lendl:
+
+Top Players' Tennis - Featuring Chris Evert & Ivan Lendl
+========================================================
+
+.. table::
+
+    +------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
+    |                                      Original                                      |                                      Emulated                                       |                                   FCEUX Screenshot                                    |
+    +====================================================================================+=====================================================================================+=======================================================================================+
+    |.. image:: ../assets/screens/top_players_tennis_featuring_chris_evert_ivan_lendl.png|.. image:: ../output/top_players_tennis_featuring_chris_evert_ivan_lendl_emulated.png|.. image:: ../output/top_players_tennis_featuring_chris_evert_ivan_lendl_screenshot.png|
+    +------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/top_players_tennis_featuring_chris_evert_ivan_lendl_diff.png
+
+.. literalinclude:: ../output/top_players_tennis_featuring_chris_evert_ivan_lendl_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _total_recall:
+
+Total Recall
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/total_recall.png|.. image:: ../output/total_recall_emulated.png|.. image:: ../output/total_recall_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/total_recall_diff.png
+
+.. literalinclude:: ../output/total_recall_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _totally_rad:
+
+Totally Rad
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/totally_rad.png|.. image:: ../output/totally_rad_emulated.png|.. image:: ../output/totally_rad_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/totally_rad_diff.png
+
+.. literalinclude:: ../output/totally_rad_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _touch_down_fever:
+
+Touch Down Fever
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/touch_down_fever.png|.. image:: ../output/touch_down_fever_emulated.png|.. image:: ../output/touch_down_fever_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/touch_down_fever_diff.png
+
+.. literalinclude:: ../output/touch_down_fever_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _toxic_crusaders:
+
+Toxic Crusaders
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/toxic_crusaders.png|.. image:: ../output/toxic_crusaders_emulated.png|.. image:: ../output/toxic_crusaders_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/toxic_crusaders_diff.png
+
+.. literalinclude:: ../output/toxic_crusaders_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _track_field:
+
+Track & Field
+=============
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/track_field.png|.. image:: ../output/track_field_emulated.png|.. image:: ../output/track_field_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/track_field_diff.png
+
+.. literalinclude:: ../output/track_field_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _track_field_ii:
+
+Track & Field II
+================
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/track_field_ii.png|.. image:: ../output/track_field_ii_emulated.png|.. image:: ../output/track_field_ii_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/track_field_ii_diff.png
+
+.. literalinclude:: ../output/track_field_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _treasure_master:
+
+Treasure Master
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/treasure_master.png|.. image:: ../output/treasure_master_emulated.png|.. image:: ../output/treasure_master_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/treasure_master_diff.png
+
+.. literalinclude:: ../output/treasure_master_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _trog:
+
+Trog
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/trog.png|.. image:: ../output/trog_emulated.png|.. image:: ../output/trog_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/trog_diff.png
+
+.. literalinclude:: ../output/trog_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _trojan:
+
+Trojan
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/trojan.png|.. image:: ../output/trojan_emulated.png|.. image:: ../output/trojan_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/trojan_diff.png
+
+.. literalinclude:: ../output/trojan_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _twin_cobra:
+
+Twin Cobra
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/twin_cobra.png|.. image:: ../output/twin_cobra_emulated.png|.. image:: ../output/twin_cobra_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/twin_cobra_diff.png
+
+.. literalinclude:: ../output/twin_cobra_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _twin_eagle_revenge_joe_s_brother:
+
+Twin Eagle - Revenge Joe's Brother
+==================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/twin_eagle_revenge_joe_s_brother.png|.. image:: ../output/twin_eagle_revenge_joe_s_brother_emulated.png|.. image:: ../output/twin_eagle_revenge_joe_s_brother_screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/twin_eagle_revenge_joe_s_brother_diff.png
+
+.. literalinclude:: ../output/twin_eagle_revenge_joe_s_brother_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

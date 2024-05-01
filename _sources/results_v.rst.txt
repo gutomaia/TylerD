@@ -1,0 +1,61 @@
+Results v
+=========
+
+.. _vegas_dream:
+
+Vegas Dream
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/vegas_dream.png|.. image:: ../output/vegas_dream_emulated.png|.. image:: ../output/vegas_dream_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/vegas_dream_diff.png
+
+.. literalinclude:: ../output/vegas_dream_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _vice_project_doom:
+
+Vice - Project Doom
+===================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/vice_project_doom.png|.. image:: ../output/vice_project_doom_emulated.png|.. image:: ../output/vice_project_doom_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/vice_project_doom_diff.png
+
+.. literalinclude:: ../output/vice_project_doom_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

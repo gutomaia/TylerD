@@ -1,0 +1,90 @@
+Results y
+=========
+
+.. _yo_noid:
+
+Yo! Noid
+========
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/yo_noid.png|.. image:: ../output/yo_noid_emulated.png|.. image:: ../output/yo_noid_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/yo_noid_diff.png
+
+.. literalinclude:: ../output/yo_noid_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _yoshi_s_cookie:
+
+Yoshi's Cookie
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/yoshi_s_cookie.png|.. image:: ../output/yoshi_s_cookie_emulated.png|.. image:: ../output/yoshi_s_cookie_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/yoshi_s_cookie_diff.png
+
+.. literalinclude:: ../output/yoshi_s_cookie_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _young_indiana_jones_chronicles_the:
+
+Young Indiana Jones Chronicles, The
+===================================
+
+.. table::
+
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+    |                             Original                              |                              Emulated                              |                           FCEUX Screenshot                           |
+    +===================================================================+====================================================================+======================================================================+
+    |.. image:: ../assets/screens/young_indiana_jones_chronicles_the.png|.. image:: ../output/young_indiana_jones_chronicles_the_emulated.png|.. image:: ../output/young_indiana_jones_chronicles_the_screenshot.png|
+    +-------------------------------------------------------------------+--------------------------------------------------------------------+----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/young_indiana_jones_chronicles_the_diff.png
+
+.. literalinclude:: ../output/young_indiana_jones_chronicles_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

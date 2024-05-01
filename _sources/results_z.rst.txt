@@ -1,0 +1,119 @@
+Results z
+=========
+
+.. _zanac:
+
+Zanac
+=====
+
+.. table::
+
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+    |               Original               |               Emulated                |            FCEUX Screenshot             |
+    +======================================+=======================================+=========================================+
+    |.. image:: ../assets/screens/zanac.png|.. image:: ../output/zanac_emulated.png|.. image:: ../output/zanac_screenshot.png|
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/zanac_diff.png
+
+.. literalinclude:: ../output/zanac_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _zelda_ii_the_adventure_of_link:
+
+Zelda II - The Adventure of Link
+================================
+
+.. table::
+
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+    |                           Original                            |                            Emulated                            |                         FCEUX Screenshot                         |
+    +===============================================================+================================================================+==================================================================+
+    |.. image:: ../assets/screens/zelda_ii_the_adventure_of_link.png|.. image:: ../output/zelda_ii_the_adventure_of_link_emulated.png|.. image:: ../output/zelda_ii_the_adventure_of_link_screenshot.png|
+    +---------------------------------------------------------------+----------------------------------------------------------------+------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/zelda_ii_the_adventure_of_link_diff.png
+
+.. literalinclude:: ../output/zelda_ii_the_adventure_of_link_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _zen_intergalactic_ninja:
+
+Zen - Intergalactic Ninja
+=========================
+
+.. table::
+
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+    |                        Original                        |                        Emulated                         |                     FCEUX Screenshot                      |
+    +========================================================+=========================================================+===========================================================+
+    |.. image:: ../assets/screens/zen_intergalactic_ninja.png|.. image:: ../output/zen_intergalactic_ninja_emulated.png|.. image:: ../output/zen_intergalactic_ninja_screenshot.png|
+    +--------------------------------------------------------+---------------------------------------------------------+-----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/zen_intergalactic_ninja_diff.png
+
+.. literalinclude:: ../output/zen_intergalactic_ninja_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _zombie_nation:
+
+Zombie Nation
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/zombie_nation.png|.. image:: ../output/zombie_nation_emulated.png|.. image:: ../output/zombie_nation_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/zombie_nation_diff.png
+
+.. literalinclude:: ../output/zombie_nation_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

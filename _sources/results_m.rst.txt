@@ -1,0 +1,1395 @@
+Results m
+=========
+
+.. _m_c_kids:
+
+M.C Kids
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/m_c_kids.png|.. image:: ../output/m_c_kids_emulated.png|.. image:: ../output/m_c_kids_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/m_c_kids_diff.png
+
+.. literalinclude:: ../output/m_c_kids_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _m_u_l_e_:
+
+M.U.L.E.
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/m_u_l_e_.png|.. image:: ../output/m_u_l_e__emulated.png|.. image:: ../output/m_u_l_e__screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/m_u_l_e__diff.png
+
+.. literalinclude:: ../output/m_u_l_e__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _m_u_s_c_l_e_:
+
+M.U.S.C.L.E.
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/m_u_s_c_l_e_.png|.. image:: ../output/m_u_s_c_l_e__emulated.png|.. image:: ../output/m_u_s_c_l_e__screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/m_u_s_c_l_e__diff.png
+
+.. literalinclude:: ../output/m_u_s_c_l_e__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mach_rider:
+
+Mach Rider
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/mach_rider.png|.. image:: ../output/mach_rider_emulated.png|.. image:: ../output/mach_rider_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mach_rider_diff.png
+
+.. literalinclude:: ../output/mach_rider_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mad_max:
+
+Mad Max
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/mad_max.png|.. image:: ../output/mad_max_emulated.png|.. image:: ../output/mad_max_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mad_max_diff.png
+
+.. literalinclude:: ../output/mad_max_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mafat_conspiracy_golgo_13:
+
+Mafat Conspiracy - Golgo 13
+===========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/mafat_conspiracy_golgo_13.png|.. image:: ../output/mafat_conspiracy_golgo_13_emulated.png|.. image:: ../output/mafat_conspiracy_golgo_13_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mafat_conspiracy_golgo_13_diff.png
+
+.. literalinclude:: ../output/mafat_conspiracy_golgo_13_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _magic_darts:
+
+Magic Darts
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/magic_darts.png|.. image:: ../output/magic_darts_emulated.png|.. image:: ../output/magic_darts_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/magic_darts_diff.png
+
+.. literalinclude:: ../output/magic_darts_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _magic_johnson_s_fast_break:
+
+Magic Johnson's Fast Break
+==========================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/magic_johnson_s_fast_break.png|.. image:: ../output/magic_johnson_s_fast_break_emulated.png|.. image:: ../output/magic_johnson_s_fast_break_screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/magic_johnson_s_fast_break_diff.png
+
+.. literalinclude:: ../output/magic_johnson_s_fast_break_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _magic_of_scheherazade_the:
+
+Magic of Scheherazade, The
+==========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/magic_of_scheherazade_the.png|.. image:: ../output/magic_of_scheherazade_the_emulated.png|.. image:: ../output/magic_of_scheherazade_the_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/magic_of_scheherazade_the_diff.png
+
+.. literalinclude:: ../output/magic_of_scheherazade_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _magician:
+
+Magician
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/magician.png|.. image:: ../output/magician_emulated.png|.. image:: ../output/magician_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/magician_diff.png
+
+.. literalinclude:: ../output/magician_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _magmax:
+
+Magmax
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/magmax.png|.. image:: ../output/magmax_emulated.png|.. image:: ../output/magmax_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/magmax_diff.png
+
+.. literalinclude:: ../output/magmax_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _major_league_baseball:
+
+Major League Baseball
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/major_league_baseball.png|.. image:: ../output/major_league_baseball_emulated.png|.. image:: ../output/major_league_baseball_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/major_league_baseball_diff.png
+
+.. literalinclude:: ../output/major_league_baseball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _maniac_mansion:
+
+Maniac Mansion
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/maniac_mansion.png|.. image:: ../output/maniac_mansion_emulated.png|.. image:: ../output/maniac_mansion_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/maniac_mansion_diff.png
+
+.. literalinclude:: ../output/maniac_mansion_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mappy_land:
+
+Mappy-Land
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/mappy_land.png|.. image:: ../output/mappy_land_emulated.png|.. image:: ../output/mappy_land_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mappy_land_diff.png
+
+.. literalinclude:: ../output/mappy_land_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _marble_madness:
+
+Marble Madness
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/marble_madness.png|.. image:: ../output/marble_madness_emulated.png|.. image:: ../output/marble_madness_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/marble_madness_diff.png
+
+.. literalinclude:: ../output/marble_madness_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mario_bros_:
+
+Mario Bros.
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/mario_bros_.png|.. image:: ../output/mario_bros__emulated.png|.. image:: ../output/mario_bros__screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mario_bros__diff.png
+
+.. literalinclude:: ../output/mario_bros__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mario_is_missing_:
+
+Mario is Missing!
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/mario_is_missing_.png|.. image:: ../output/mario_is_missing__emulated.png|.. image:: ../output/mario_is_missing__screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mario_is_missing__diff.png
+
+.. literalinclude:: ../output/mario_is_missing__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mario_s_time_machine_:
+
+Mario's Time Machine!
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/mario_s_time_machine_.png|.. image:: ../output/mario_s_time_machine__emulated.png|.. image:: ../output/mario_s_time_machine__screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mario_s_time_machine__diff.png
+
+.. literalinclude:: ../output/mario_s_time_machine__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mechanized_attack:
+
+Mechanized Attack
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/mechanized_attack.png|.. image:: ../output/mechanized_attack_emulated.png|.. image:: ../output/mechanized_attack_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mechanized_attack_diff.png
+
+.. literalinclude:: ../output/mechanized_attack_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman:
+
+Megaman
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/megaman.png|.. image:: ../output/megaman_emulated.png|.. image:: ../output/megaman_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_diff.png
+
+.. literalinclude:: ../output/megaman_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman_ii:
+
+Megaman II
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/megaman_ii.png|.. image:: ../output/megaman_ii_emulated.png|.. image:: ../output/megaman_ii_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_ii_diff.png
+
+.. literalinclude:: ../output/megaman_ii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman_iii:
+
+Megaman III
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/megaman_iii.png|.. image:: ../output/megaman_iii_emulated.png|.. image:: ../output/megaman_iii_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_iii_diff.png
+
+.. literalinclude:: ../output/megaman_iii_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman_iv:
+
+Megaman IV
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/megaman_iv.png|.. image:: ../output/megaman_iv_emulated.png|.. image:: ../output/megaman_iv_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_iv_diff.png
+
+.. literalinclude:: ../output/megaman_iv_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman_v:
+
+Megaman V
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/megaman_v.png|.. image:: ../output/megaman_v_emulated.png|.. image:: ../output/megaman_v_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_v_diff.png
+
+.. literalinclude:: ../output/megaman_v_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _megaman_vi:
+
+Megaman VI
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/megaman_vi.png|.. image:: ../output/megaman_vi_emulated.png|.. image:: ../output/megaman_vi_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/megaman_vi_diff.png
+
+.. literalinclude:: ../output/megaman_vi_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mendel_palace:
+
+Mendel Palace
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/mendel_palace.png|.. image:: ../output/mendel_palace_emulated.png|.. image:: ../output/mendel_palace_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mendel_palace_diff.png
+
+.. literalinclude:: ../output/mendel_palace_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _metal_gear:
+
+Metal Gear
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/metal_gear.png|.. image:: ../output/metal_gear_emulated.png|.. image:: ../output/metal_gear_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/metal_gear_diff.png
+
+.. literalinclude:: ../output/metal_gear_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _metal_mech_man_machine:
+
+Metal Mech - Man & Machine
+==========================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/metal_mech_man_machine.png|.. image:: ../output/metal_mech_man_machine_emulated.png|.. image:: ../output/metal_mech_man_machine_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/metal_mech_man_machine_diff.png
+
+.. literalinclude:: ../output/metal_mech_man_machine_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _metal_storm:
+
+Metal Storm
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/metal_storm.png|.. image:: ../output/metal_storm_emulated.png|.. image:: ../output/metal_storm_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/metal_storm_diff.png
+
+.. literalinclude:: ../output/metal_storm_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _metroid:
+
+Metroid
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/metroid.png|.. image:: ../output/metroid_emulated.png|.. image:: ../output/metroid_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/metroid_diff.png
+
+.. literalinclude:: ../output/metroid_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _michael_andretti_s_world_grand_prix:
+
+Michael Andretti's World Grand Prix
+===================================
+
+.. table::
+
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+    |                              Original                              |                              Emulated                               |                           FCEUX Screenshot                            |
+    +====================================================================+=====================================================================+=======================================================================+
+    |.. image:: ../assets/screens/michael_andretti_s_world_grand_prix.png|.. image:: ../output/michael_andretti_s_world_grand_prix_emulated.png|.. image:: ../output/michael_andretti_s_world_grand_prix_screenshot.png|
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/michael_andretti_s_world_grand_prix_diff.png
+
+.. literalinclude:: ../output/michael_andretti_s_world_grand_prix_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mickey_mousecapade:
+
+Mickey Mousecapade
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/mickey_mousecapade.png|.. image:: ../output/mickey_mousecapade_emulated.png|.. image:: ../output/mickey_mousecapade_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mickey_mousecapade_diff.png
+
+.. literalinclude:: ../output/mickey_mousecapade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mickey_s_adventures_in_numberland:
+
+Mickey's Adventures in Numberland
+=================================
+
+.. table::
+
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+    |                             Original                             |                             Emulated                              |                          FCEUX Screenshot                           |
+    +==================================================================+===================================================================+=====================================================================+
+    |.. image:: ../assets/screens/mickey_s_adventures_in_numberland.png|.. image:: ../output/mickey_s_adventures_in_numberland_emulated.png|.. image:: ../output/mickey_s_adventures_in_numberland_screenshot.png|
+    +------------------------------------------------------------------+-------------------------------------------------------------------+---------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mickey_s_adventures_in_numberland_diff.png
+
+.. literalinclude:: ../output/mickey_s_adventures_in_numberland_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mickey_s_safari_in_letterland:
+
+Mickey's Safari in Letterland
+=============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/mickey_s_safari_in_letterland.png|.. image:: ../output/mickey_s_safari_in_letterland_emulated.png|.. image:: ../output/mickey_s_safari_in_letterland_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mickey_s_safari_in_letterland_diff.png
+
+.. literalinclude:: ../output/mickey_s_safari_in_letterland_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _might_and_magic:
+
+Might and Magic
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/might_and_magic.png|.. image:: ../output/might_and_magic_emulated.png|.. image:: ../output/might_and_magic_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/might_and_magic_diff.png
+
+.. literalinclude:: ../output/might_and_magic_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mighty_bomb_jack:
+
+Mighty Bomb Jack
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/mighty_bomb_jack.png|.. image:: ../output/mighty_bomb_jack_emulated.png|.. image:: ../output/mighty_bomb_jack_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mighty_bomb_jack_diff.png
+
+.. literalinclude:: ../output/mighty_bomb_jack_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mighty_final_fight:
+
+Mighty Final Fight
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/mighty_final_fight.png|.. image:: ../output/mighty_final_fight_emulated.png|.. image:: ../output/mighty_final_fight_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mighty_final_fight_diff.png
+
+.. literalinclude:: ../output/mighty_final_fight_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _millipede:
+
+Millipede
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/millipede.png|.. image:: ../output/millipede_emulated.png|.. image:: ../output/millipede_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/millipede_diff.png
+
+.. literalinclude:: ../output/millipede_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _milon_s_secret_castle:
+
+Milon's Secret Castle
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/milon_s_secret_castle.png|.. image:: ../output/milon_s_secret_castle_emulated.png|.. image:: ../output/milon_s_secret_castle_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/milon_s_secret_castle_diff.png
+
+.. literalinclude:: ../output/milon_s_secret_castle_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mission_impossible:
+
+Mission - Impossible
+====================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/mission_impossible.png|.. image:: ../output/mission_impossible_emulated.png|.. image:: ../output/mission_impossible_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mission_impossible_diff.png
+
+.. literalinclude:: ../output/mission_impossible_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _monopoly:
+
+Monopoly
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/monopoly.png|.. image:: ../output/monopoly_emulated.png|.. image:: ../output/monopoly_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/monopoly_diff.png
+
+.. literalinclude:: ../output/monopoly_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _monster_in_my_pocket:
+
+Monster In My Pocket
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/monster_in_my_pocket.png|.. image:: ../output/monster_in_my_pocket_emulated.png|.. image:: ../output/monster_in_my_pocket_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/monster_in_my_pocket_diff.png
+
+.. literalinclude:: ../output/monster_in_my_pocket_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _monster_party:
+
+Monster Party
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/monster_party.png|.. image:: ../output/monster_party_emulated.png|.. image:: ../output/monster_party_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/monster_party_diff.png
+
+.. literalinclude:: ../output/monster_party_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _monster_truck_rally:
+
+Monster Truck Rally
+===================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/monster_truck_rally.png|.. image:: ../output/monster_truck_rally_emulated.png|.. image:: ../output/monster_truck_rally_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/monster_truck_rally_diff.png
+
+.. literalinclude:: ../output/monster_truck_rally_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _motor_city_patrol:
+
+Motor City Patrol
+=================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/motor_city_patrol.png|.. image:: ../output/motor_city_patrol_emulated.png|.. image:: ../output/motor_city_patrol_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/motor_city_patrol_diff.png
+
+.. literalinclude:: ../output/motor_city_patrol_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ms_pac_man:
+
+Ms. Pac-Man
+===========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/ms_pac_man.png|.. image:: ../output/ms_pac_man_emulated.png|.. image:: ../output/ms_pac_man_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ms_pac_man_diff.png
+
+.. literalinclude:: ../output/ms_pac_man_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mutant_virus_the:
+
+Mutant Virus, The
+=================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/mutant_virus_the.png|.. image:: ../output/mutant_virus_the_emulated.png|.. image:: ../output/mutant_virus_the_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mutant_virus_the_diff.png
+
+.. literalinclude:: ../output/mutant_virus_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _mystery_quest:
+
+Mystery Quest
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/mystery_quest.png|.. image:: ../output/mystery_quest_emulated.png|.. image:: ../output/mystery_quest_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/mystery_quest_diff.png
+
+.. literalinclude:: ../output/mystery_quest_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

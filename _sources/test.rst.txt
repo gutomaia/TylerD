@@ -1,0 +1,9 @@
+Tests
+=====
+
+Using a large set of NES title screen images as input,
+we attempt to generate a game intro screen.
+
+
+
+

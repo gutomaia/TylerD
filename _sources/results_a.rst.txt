@@ -1,0 +1,931 @@
+Results a
+=========
+
+.. _abadox_the_deadly_inner_war:
+
+Abadox - The Deadly Inner War
+=============================
+
+.. table::
+
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+    |                          Original                          |                          Emulated                           |                       FCEUX Screenshot                        |
+    +============================================================+=============================================================+===============================================================+
+    |.. image:: ../assets/screens/abadox_the_deadly_inner_war.png|.. image:: ../output/abadox_the_deadly_inner_war_emulated.png|.. image:: ../output/abadox_the_deadly_inner_war_screenshot.png|
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/abadox_the_deadly_inner_war_diff.png
+
+.. literalinclude:: ../output/abadox_the_deadly_inner_war_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _addams_family_the:
+
+Addams Family, The
+==================
+
+.. table::
+
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+    |                     Original                     |                     Emulated                      |                  FCEUX Screenshot                   |
+    +==================================================+===================================================+=====================================================+
+    |.. image:: ../assets/screens/addams_family_the.png|.. image:: ../output/addams_family_the_emulated.png|.. image:: ../output/addams_family_the_screenshot.png|
+    +--------------------------------------------------+---------------------------------------------------+-----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/addams_family_the_diff.png
+
+.. literalinclude:: ../output/addams_family_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _addams_family_the_pugsley_s_scavenger_hunt:
+
+Addams Family, The - Pugsley's Scavenger Hunt
+=============================================
+
+.. table::
+
+    +---------------------------------------------------------------------------+----------------------------------------------------------------------------+------------------------------------------------------------------------------+
+    |                                 Original                                  |                                  Emulated                                  |                               FCEUX Screenshot                               |
+    +===========================================================================+============================================================================+==============================================================================+
+    |.. image:: ../assets/screens/addams_family_the_pugsley_s_scavenger_hunt.png|.. image:: ../output/addams_family_the_pugsley_s_scavenger_hunt_emulated.png|.. image:: ../output/addams_family_the_pugsley_s_scavenger_hunt_screenshot.png|
+    +---------------------------------------------------------------------------+----------------------------------------------------------------------------+------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/addams_family_the_pugsley_s_scavenger_hunt_diff.png
+
+.. literalinclude:: ../output/addams_family_the_pugsley_s_scavenger_hunt_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _advanced_dungeons_dragons_dragon_strike:
+
+Advanced Dungeons & Dragons - Dragon Strike
+===========================================
+
+.. table::
+
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+    |                                Original                                |                                Emulated                                 |                             FCEUX Screenshot                              |
+    +========================================================================+=========================================================================+===========================================================================+
+    |.. image:: ../assets/screens/advanced_dungeons_dragons_dragon_strike.png|.. image:: ../output/advanced_dungeons_dragons_dragon_strike_emulated.png|.. image:: ../output/advanced_dungeons_dragons_dragon_strike_screenshot.png|
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/advanced_dungeons_dragons_dragon_strike_diff.png
+
+.. literalinclude:: ../output/advanced_dungeons_dragons_dragon_strike_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _advanced_dungeons_dragons_heroes_of_the_lance:
+
+Advanced Dungeons & Dragons - Heroes of the Lance
+=================================================
+
+.. table::
+
+    +------------------------------------------------------------------------------+-------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+    |                                   Original                                   |                                   Emulated                                    |                                FCEUX Screenshot                                 |
+    +==============================================================================+===============================================================================+=================================================================================+
+    |.. image:: ../assets/screens/advanced_dungeons_dragons_heroes_of_the_lance.png|.. image:: ../output/advanced_dungeons_dragons_heroes_of_the_lance_emulated.png|.. image:: ../output/advanced_dungeons_dragons_heroes_of_the_lance_screenshot.png|
+    +------------------------------------------------------------------------------+-------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/advanced_dungeons_dragons_heroes_of_the_lance_diff.png
+
+.. literalinclude:: ../output/advanced_dungeons_dragons_heroes_of_the_lance_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_in_the_magic_kingdom:
+
+Adventures in the Magic Kingdom
+===============================
+
+.. table::
+
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+    |                            Original                            |                            Emulated                             |                         FCEUX Screenshot                          |
+    +================================================================+=================================================================+===================================================================+
+    |.. image:: ../assets/screens/adventures_in_the_magic_kingdom.png|.. image:: ../output/adventures_in_the_magic_kingdom_emulated.png|.. image:: ../output/adventures_in_the_magic_kingdom_screenshot.png|
+    +----------------------------------------------------------------+-----------------------------------------------------------------+-------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_in_the_magic_kingdom_diff.png
+
+.. literalinclude:: ../output/adventures_in_the_magic_kingdom_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_bayou_billy_the:
+
+Adventures of Bayou Billy, The
+==============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/adventures_of_bayou_billy_the.png|.. image:: ../output/adventures_of_bayou_billy_the_emulated.png|.. image:: ../output/adventures_of_bayou_billy_the_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_bayou_billy_the_diff.png
+
+.. literalinclude:: ../output/adventures_of_bayou_billy_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_dino_riki_the:
+
+Adventures of Dino Riki, The
+============================
+
+.. table::
+
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+    |                          Original                          |                          Emulated                           |                       FCEUX Screenshot                        |
+    +============================================================+=============================================================+===============================================================+
+    |.. image:: ../assets/screens/adventures_of_dino_riki_the.png|.. image:: ../output/adventures_of_dino_riki_the_emulated.png|.. image:: ../output/adventures_of_dino_riki_the_screenshot.png|
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_dino_riki_the_diff.png
+
+.. literalinclude:: ../output/adventures_of_dino_riki_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_gilligan_s_island_the:
+
+Adventures of Gilligan's Island, The
+====================================
+
+.. table::
+
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+    |                              Original                              |                              Emulated                               |                           FCEUX Screenshot                            |
+    +====================================================================+=====================================================================+=======================================================================+
+    |.. image:: ../assets/screens/adventures_of_gilligan_s_island_the.png|.. image:: ../output/adventures_of_gilligan_s_island_the_emulated.png|.. image:: ../output/adventures_of_gilligan_s_island_the_screenshot.png|
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_gilligan_s_island_the_diff.png
+
+.. literalinclude:: ../output/adventures_of_gilligan_s_island_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_lolo:
+
+Adventures of Lolo
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/adventures_of_lolo.png|.. image:: ../output/adventures_of_lolo_emulated.png|.. image:: ../output/adventures_of_lolo_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_lolo_diff.png
+
+.. literalinclude:: ../output/adventures_of_lolo_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_lolo_2:
+
+Adventures of Lolo 2
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/adventures_of_lolo_2.png|.. image:: ../output/adventures_of_lolo_2_emulated.png|.. image:: ../output/adventures_of_lolo_2_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_lolo_2_diff.png
+
+.. literalinclude:: ../output/adventures_of_lolo_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_lolo_3:
+
+Adventures of Lolo 3
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/adventures_of_lolo_3.png|.. image:: ../output/adventures_of_lolo_3_emulated.png|.. image:: ../output/adventures_of_lolo_3_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_lolo_3_diff.png
+
+.. literalinclude:: ../output/adventures_of_lolo_3_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_rad_gravity_the:
+
+Adventures of Rad Gravity, The
+==============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/adventures_of_rad_gravity_the.png|.. image:: ../output/adventures_of_rad_gravity_the_emulated.png|.. image:: ../output/adventures_of_rad_gravity_the_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_rad_gravity_the_diff.png
+
+.. literalinclude:: ../output/adventures_of_rad_gravity_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _adventures_of_rocky_and_bullwinkle_and_friends_the:
+
+Adventures of Rocky and Bullwinkle and Friends, The
+===================================================
+
+.. table::
+
+    +-----------------------------------------------------------------------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+    |                                     Original                                      |                                      Emulated                                      |                                   FCEUX Screenshot                                   |
+    +===================================================================================+====================================================================================+======================================================================================+
+    |.. image:: ../assets/screens/adventures_of_rocky_and_bullwinkle_and_friends_the.png|.. image:: ../output/adventures_of_rocky_and_bullwinkle_and_friends_the_emulated.png|.. image:: ../output/adventures_of_rocky_and_bullwinkle_and_friends_the_screenshot.png|
+    +-----------------------------------------------------------------------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/adventures_of_rocky_and_bullwinkle_and_friends_the_diff.png
+
+.. literalinclude:: ../output/adventures_of_rocky_and_bullwinkle_and_friends_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _air_fortress:
+
+Air Fortress
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/air_fortress.png|.. image:: ../output/air_fortress_emulated.png|.. image:: ../output/air_fortress_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/air_fortress_diff.png
+
+.. literalinclude:: ../output/air_fortress_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _airwolf:
+
+Airwolf
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/airwolf.png|.. image:: ../output/airwolf_emulated.png|.. image:: ../output/airwolf_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/airwolf_diff.png
+
+.. literalinclude:: ../output/airwolf_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _al_unser_jr_turbo_racing:
+
+Al Unser Jr. Turbo Racing
+=========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/al_unser_jr_turbo_racing.png|.. image:: ../output/al_unser_jr_turbo_racing_emulated.png|.. image:: ../output/al_unser_jr_turbo_racing_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/al_unser_jr_turbo_racing_diff.png
+
+.. literalinclude:: ../output/al_unser_jr_turbo_racing_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _alfred_chicken:
+
+Alfred Chicken
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/alfred_chicken.png|.. image:: ../output/alfred_chicken_emulated.png|.. image:: ../output/alfred_chicken_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/alfred_chicken_diff.png
+
+.. literalinclude:: ../output/alfred_chicken_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _alien_3:
+
+Alien 3
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/alien_3.png|.. image:: ../output/alien_3_emulated.png|.. image:: ../output/alien_3_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/alien_3_diff.png
+
+.. literalinclude:: ../output/alien_3_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _all_pro_basketball:
+
+All-Pro Basketball
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/all_pro_basketball.png|.. image:: ../output/all_pro_basketball_emulated.png|.. image:: ../output/all_pro_basketball_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/all_pro_basketball_diff.png
+
+.. literalinclude:: ../output/all_pro_basketball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _alpha_mission:
+
+Alpha Mission
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/alpha_mission.png|.. image:: ../output/alpha_mission_emulated.png|.. image:: ../output/alpha_mission_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/alpha_mission_diff.png
+
+.. literalinclude:: ../output/alpha_mission_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _amagon:
+
+Amagon
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/amagon.png|.. image:: ../output/amagon_emulated.png|.. image:: ../output/amagon_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/amagon_diff.png
+
+.. literalinclude:: ../output/amagon_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _american_gladiators:
+
+American Gladiators
+===================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/american_gladiators.png|.. image:: ../output/american_gladiators_emulated.png|.. image:: ../output/american_gladiators_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/american_gladiators_diff.png
+
+.. literalinclude:: ../output/american_gladiators_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _anticipation:
+
+Anticipation
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/anticipation.png|.. image:: ../output/anticipation_emulated.png|.. image:: ../output/anticipation_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/anticipation_diff.png
+
+.. literalinclude:: ../output/anticipation_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _arch_rivals_a_basketbrawl_:
+
+Arch Rivals - A Basketbrawl!
+============================
+
+.. table::
+
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+    |                         Original                          |                          Emulated                          |                       FCEUX Screenshot                       |
+    +===========================================================+============================================================+==============================================================+
+    |.. image:: ../assets/screens/arch_rivals_a_basketbrawl_.png|.. image:: ../output/arch_rivals_a_basketbrawl__emulated.png|.. image:: ../output/arch_rivals_a_basketbrawl__screenshot.png|
+    +-----------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/arch_rivals_a_basketbrawl__diff.png
+
+.. literalinclude:: ../output/arch_rivals_a_basketbrawl__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _archon:
+
+Archon
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/archon.png|.. image:: ../output/archon_emulated.png|.. image:: ../output/archon_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/archon_diff.png
+
+.. literalinclude:: ../output/archon_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _arkanoid:
+
+Arkanoid
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/arkanoid.png|.. image:: ../output/arkanoid_emulated.png|.. image:: ../output/arkanoid_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/arkanoid_diff.png
+
+.. literalinclude:: ../output/arkanoid_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _arkista_s_ring:
+
+Arkista's Ring
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/arkista_s_ring.png|.. image:: ../output/arkista_s_ring_emulated.png|.. image:: ../output/arkista_s_ring_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/arkista_s_ring_diff.png
+
+.. literalinclude:: ../output/arkista_s_ring_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _astyanax:
+
+Astyanax
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/astyanax.png|.. image:: ../output/astyanax_emulated.png|.. image:: ../output/astyanax_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/astyanax_diff.png
+
+.. literalinclude:: ../output/astyanax_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _athena:
+
+Athena
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/athena.png|.. image:: ../output/athena_emulated.png|.. image:: ../output/athena_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/athena_diff.png
+
+.. literalinclude:: ../output/athena_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _athletic_world:
+
+Athletic World
+==============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/athletic_world.png|.. image:: ../output/athletic_world_emulated.png|.. image:: ../output/athletic_world_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/athletic_world_diff.png
+
+.. literalinclude:: ../output/athletic_world_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _attack_of_the_killer_tomatoes:
+
+Attack of the Killer Tomatoes
+=============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/attack_of_the_killer_tomatoes.png|.. image:: ../output/attack_of_the_killer_tomatoes_emulated.png|.. image:: ../output/attack_of_the_killer_tomatoes_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/attack_of_the_killer_tomatoes_diff.png
+
+.. literalinclude:: ../output/attack_of_the_killer_tomatoes_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

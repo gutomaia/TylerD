@@ -1,0 +1,32 @@
+Results q
+=========
+
+.. _q_bert:
+
+Q-bert
+======
+
+.. table::
+
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+    |               Original                |                Emulated                |             FCEUX Screenshot             |
+    +=======================================+========================================+==========================================+
+    |.. image:: ../assets/screens/q_bert.png|.. image:: ../output/q_bert_emulated.png|.. image:: ../output/q_bert_screenshot.png|
+    +---------------------------------------+----------------------------------------+------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/q_bert_diff.png
+
+.. literalinclude:: ../output/q_bert_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

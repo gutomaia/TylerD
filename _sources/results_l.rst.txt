@@ -1,0 +1,641 @@
+Results l
+=========
+
+.. _last_action_hero:
+
+Last Action Hero
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/last_action_hero.png|.. image:: ../output/last_action_hero_emulated.png|.. image:: ../output/last_action_hero_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/last_action_hero_diff.png
+
+.. literalinclude:: ../output/last_action_hero_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _last_ninja_the:
+
+Last Ninja, The
+===============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/last_ninja_the.png|.. image:: ../output/last_ninja_the_emulated.png|.. image:: ../output/last_ninja_the_screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/last_ninja_the_diff.png
+
+.. literalinclude:: ../output/last_ninja_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _last_starfighter_the:
+
+Last Starfighter, The
+=====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/last_starfighter_the.png|.. image:: ../output/last_starfighter_the_emulated.png|.. image:: ../output/last_starfighter_the_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/last_starfighter_the_diff.png
+
+.. literalinclude:: ../output/last_starfighter_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lee_trevino_s_fighting_golf:
+
+Lee Trevino's Fighting Golf
+===========================
+
+.. table::
+
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+    |                          Original                          |                          Emulated                           |                       FCEUX Screenshot                        |
+    +============================================================+=============================================================+===============================================================+
+    |.. image:: ../assets/screens/lee_trevino_s_fighting_golf.png|.. image:: ../output/lee_trevino_s_fighting_golf_emulated.png|.. image:: ../output/lee_trevino_s_fighting_golf_screenshot.png|
+    +------------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lee_trevino_s_fighting_golf_diff.png
+
+.. literalinclude:: ../output/lee_trevino_s_fighting_golf_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _legacy_of_the_wizard:
+
+Legacy of the Wizard
+====================
+
+.. table::
+
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+    |                      Original                       |                       Emulated                       |                    FCEUX Screenshot                    |
+    +=====================================================+======================================================+========================================================+
+    |.. image:: ../assets/screens/legacy_of_the_wizard.png|.. image:: ../output/legacy_of_the_wizard_emulated.png|.. image:: ../output/legacy_of_the_wizard_screenshot.png|
+    +-----------------------------------------------------+------------------------------------------------------+--------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/legacy_of_the_wizard_diff.png
+
+.. literalinclude:: ../output/legacy_of_the_wizard_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _legend_of_zelda_the:
+
+Legend of Zelda, The
+====================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/legend_of_zelda_the.png|.. image:: ../output/legend_of_zelda_the_emulated.png|.. image:: ../output/legend_of_zelda_the_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/legend_of_zelda_the_diff.png
+
+.. literalinclude:: ../output/legend_of_zelda_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _legend_of_the_ghost_lion:
+
+Legend of the Ghost Lion
+========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/legend_of_the_ghost_lion.png|.. image:: ../output/legend_of_the_ghost_lion_emulated.png|.. image:: ../output/legend_of_the_ghost_lion_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/legend_of_the_ghost_lion_diff.png
+
+.. literalinclude:: ../output/legend_of_the_ghost_lion_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _legendary_wings:
+
+Legendary Wings
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/legendary_wings.png|.. image:: ../output/legendary_wings_emulated.png|.. image:: ../output/legendary_wings_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/legendary_wings_diff.png
+
+.. literalinclude:: ../output/legendary_wings_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _legends_of_the_diamond_the_baseball_championship_game:
+
+Legends of the Diamond - The Baseball Championship Game
+=======================================================
+
+.. table::
+
+    +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+    |                                       Original                                       |                                       Emulated                                        |                                    FCEUX Screenshot                                     |
+    +======================================================================================+=======================================================================================+=========================================================================================+
+    |.. image:: ../assets/screens/legends_of_the_diamond_the_baseball_championship_game.png|.. image:: ../output/legends_of_the_diamond_the_baseball_championship_game_emulated.png|.. image:: ../output/legends_of_the_diamond_the_baseball_championship_game_screenshot.png|
+    +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/legends_of_the_diamond_the_baseball_championship_game_diff.png
+
+.. literalinclude:: ../output/legends_of_the_diamond_the_baseball_championship_game_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lemmings:
+
+Lemmings
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/lemmings.png|.. image:: ../output/lemmings_emulated.png|.. image:: ../output/lemmings_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lemmings_diff.png
+
+.. literalinclude:: ../output/lemmings_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lethal_weapon:
+
+Lethal Weapon
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/lethal_weapon.png|.. image:: ../output/lethal_weapon_emulated.png|.. image:: ../output/lethal_weapon_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lethal_weapon_diff.png
+
+.. literalinclude:: ../output/lethal_weapon_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _life_force:
+
+Life Force
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/life_force.png|.. image:: ../output/life_force_emulated.png|.. image:: ../output/life_force_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/life_force_diff.png
+
+.. literalinclude:: ../output/life_force_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _little_league_baseball_championship_series:
+
+Little League Baseball - Championship Series
+============================================
+
+.. table::
+
+    +---------------------------------------------------------------------------+----------------------------------------------------------------------------+------------------------------------------------------------------------------+
+    |                                 Original                                  |                                  Emulated                                  |                               FCEUX Screenshot                               |
+    +===========================================================================+============================================================================+==============================================================================+
+    |.. image:: ../assets/screens/little_league_baseball_championship_series.png|.. image:: ../output/little_league_baseball_championship_series_emulated.png|.. image:: ../output/little_league_baseball_championship_series_screenshot.png|
+    +---------------------------------------------------------------------------+----------------------------------------------------------------------------+------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/little_league_baseball_championship_series_diff.png
+
+.. literalinclude:: ../output/little_league_baseball_championship_series_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _little_mermaid_the:
+
+Little Mermaid, The
+===================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/little_mermaid_the.png|.. image:: ../output/little_mermaid_the_emulated.png|.. image:: ../output/little_mermaid_the_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/little_mermaid_the_diff.png
+
+.. literalinclude:: ../output/little_mermaid_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _little_nemo_the_dream_master:
+
+Little Nemo - The Dream Master
+==============================
+
+.. table::
+
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+    |                          Original                           |                           Emulated                           |                        FCEUX Screenshot                        |
+    +=============================================================+==============================================================+================================================================+
+    |.. image:: ../assets/screens/little_nemo_the_dream_master.png|.. image:: ../output/little_nemo_the_dream_master_emulated.png|.. image:: ../output/little_nemo_the_dream_master_screenshot.png|
+    +-------------------------------------------------------------+--------------------------------------------------------------+----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/little_nemo_the_dream_master_diff.png
+
+.. literalinclude:: ../output/little_nemo_the_dream_master_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _little_ninja_brothers:
+
+Little Ninja Brothers
+=====================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/little_ninja_brothers.png|.. image:: ../output/little_ninja_brothers_emulated.png|.. image:: ../output/little_ninja_brothers_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/little_ninja_brothers_diff.png
+
+.. literalinclude:: ../output/little_ninja_brothers_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _little_samson:
+
+Little Samson
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/little_samson.png|.. image:: ../output/little_samson_emulated.png|.. image:: ../output/little_samson_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/little_samson_diff.png
+
+.. literalinclude:: ../output/little_samson_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lode_runner:
+
+Lode Runner
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/lode_runner.png|.. image:: ../output/lode_runner_emulated.png|.. image:: ../output/lode_runner_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lode_runner_diff.png
+
+.. literalinclude:: ../output/lode_runner_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lone_ranger_the:
+
+Lone Ranger, The
+================
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/lone_ranger_the.png|.. image:: ../output/lone_ranger_the_emulated.png|.. image:: ../output/lone_ranger_the_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lone_ranger_the_diff.png
+
+.. literalinclude:: ../output/lone_ranger_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _loopz:
+
+Loopz
+=====
+
+.. table::
+
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+    |               Original               |               Emulated                |            FCEUX Screenshot             |
+    +======================================+=======================================+=========================================+
+    |.. image:: ../assets/screens/loopz.png|.. image:: ../output/loopz_emulated.png|.. image:: ../output/loopz_screenshot.png|
+    +--------------------------------------+---------------------------------------+-----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/loopz_diff.png
+
+.. literalinclude:: ../output/loopz_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _low_g_man_the_low_gravity_man:
+
+Low G Man - The Low Gravity Man
+===============================
+
+.. table::
+
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+    |                           Original                           |                           Emulated                            |                        FCEUX Screenshot                         |
+    +==============================================================+===============================================================+=================================================================+
+    |.. image:: ../assets/screens/low_g_man_the_low_gravity_man.png|.. image:: ../output/low_g_man_the_low_gravity_man_emulated.png|.. image:: ../output/low_g_man_the_low_gravity_man_screenshot.png|
+    +--------------------------------------------------------------+---------------------------------------------------------------+-----------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/low_g_man_the_low_gravity_man_diff.png
+
+.. literalinclude:: ../output/low_g_man_the_low_gravity_man_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _lunar_pool:
+
+Lunar Pool
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/lunar_pool.png|.. image:: ../output/lunar_pool_emulated.png|.. image:: ../output/lunar_pool_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/lunar_pool_diff.png
+
+.. literalinclude:: ../output/lunar_pool_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

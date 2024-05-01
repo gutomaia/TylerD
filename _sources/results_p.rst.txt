@@ -1,0 +1,757 @@
+Results p
+=========
+
+.. _p_o_w_prisoners_of_war:
+
+P.O.W. - Prisoners of War
+=========================
+
+.. table::
+
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+    |                       Original                        |                        Emulated                        |                     FCEUX Screenshot                     |
+    +=======================================================+========================================================+==========================================================+
+    |.. image:: ../assets/screens/p_o_w_prisoners_of_war.png|.. image:: ../output/p_o_w_prisoners_of_war_emulated.png|.. image:: ../output/p_o_w_prisoners_of_war_screenshot.png|
+    +-------------------------------------------------------+--------------------------------------------------------+----------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/p_o_w_prisoners_of_war_diff.png
+
+.. literalinclude:: ../output/p_o_w_prisoners_of_war_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pac_man_namco_:
+
+Pac-Man (Namco)
+===============
+
+.. table::
+
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+    |                   Original                    |                    Emulated                    |                 FCEUX Screenshot                 |
+    +===============================================+================================================+==================================================+
+    |.. image:: ../assets/screens/pac_man_namco_.png|.. image:: ../output/pac_man_namco__emulated.png|.. image:: ../output/pac_man_namco__screenshot.png|
+    +-----------------------------------------------+------------------------------------------------+--------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pac_man_namco__diff.png
+
+.. literalinclude:: ../output/pac_man_namco__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pac_man_tengen_:
+
+Pac-Man (Tengen)
+================
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/pac_man_tengen_.png|.. image:: ../output/pac_man_tengen__emulated.png|.. image:: ../output/pac_man_tengen__screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pac_man_tengen__diff.png
+
+.. literalinclude:: ../output/pac_man_tengen__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _palamedes:
+
+Palamedes
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/palamedes.png|.. image:: ../output/palamedes_emulated.png|.. image:: ../output/palamedes_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/palamedes_diff.png
+
+.. literalinclude:: ../output/palamedes_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _panic_restaurant:
+
+Panic Restaurant
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/panic_restaurant.png|.. image:: ../output/panic_restaurant_emulated.png|.. image:: ../output/panic_restaurant_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/panic_restaurant_diff.png
+
+.. literalinclude:: ../output/panic_restaurant_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _paperboy:
+
+Paperboy
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/paperboy.png|.. image:: ../output/paperboy_emulated.png|.. image:: ../output/paperboy_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/paperboy_diff.png
+
+.. literalinclude:: ../output/paperboy_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _paperboy_2:
+
+Paperboy 2
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/paperboy_2.png|.. image:: ../output/paperboy_2_emulated.png|.. image:: ../output/paperboy_2_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/paperboy_2_diff.png
+
+.. literalinclude:: ../output/paperboy_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _perfect_fit:
+
+Perfect Fit
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/perfect_fit.png|.. image:: ../output/perfect_fit_emulated.png|.. image:: ../output/perfect_fit_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/perfect_fit_diff.png
+
+.. literalinclude:: ../output/perfect_fit_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _peter_pan_the_pirates:
+
+Peter Pan & The Pirates
+=======================
+
+.. table::
+
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+    |                       Original                       |                       Emulated                        |                    FCEUX Screenshot                     |
+    +======================================================+=======================================================+=========================================================+
+    |.. image:: ../assets/screens/peter_pan_the_pirates.png|.. image:: ../output/peter_pan_the_pirates_emulated.png|.. image:: ../output/peter_pan_the_pirates_screenshot.png|
+    +------------------------------------------------------+-------------------------------------------------------+---------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/peter_pan_the_pirates_diff.png
+
+.. literalinclude:: ../output/peter_pan_the_pirates_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _phantom_fighter:
+
+Phantom Fighter
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/phantom_fighter.png|.. image:: ../output/phantom_fighter_emulated.png|.. image:: ../output/phantom_fighter_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/phantom_fighter_diff.png
+
+.. literalinclude:: ../output/phantom_fighter_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pictionary:
+
+Pictionary
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/pictionary.png|.. image:: ../output/pictionary_emulated.png|.. image:: ../output/pictionary_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pictionary_diff.png
+
+.. literalinclude:: ../output/pictionary_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pinball:
+
+Pinball
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/pinball.png|.. image:: ../output/pinball_emulated.png|.. image:: ../output/pinball_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pinball_diff.png
+
+.. literalinclude:: ../output/pinball_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pinball_quest:
+
+Pinball Quest
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/pinball_quest.png|.. image:: ../output/pinball_quest_emulated.png|.. image:: ../output/pinball_quest_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pinball_quest_diff.png
+
+.. literalinclude:: ../output/pinball_quest_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pipe_dream:
+
+Pipe Dream
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/pipe_dream.png|.. image:: ../output/pipe_dream_emulated.png|.. image:: ../output/pipe_dream_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pipe_dream_diff.png
+
+.. literalinclude:: ../output/pipe_dream_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pirates_:
+
+Pirates!
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/pirates_.png|.. image:: ../output/pirates__emulated.png|.. image:: ../output/pirates__screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pirates__diff.png
+
+.. literalinclude:: ../output/pirates__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _platoon:
+
+Platoon
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/platoon.png|.. image:: ../output/platoon_emulated.png|.. image:: ../output/platoon_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/platoon_diff.png
+
+.. literalinclude:: ../output/platoon_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _power_blade:
+
+Power Blade
+===========
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/power_blade.png|.. image:: ../output/power_blade_emulated.png|.. image:: ../output/power_blade_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/power_blade_diff.png
+
+.. literalinclude:: ../output/power_blade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _power_blade_2:
+
+Power Blade 2
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/power_blade_2.png|.. image:: ../output/power_blade_2_emulated.png|.. image:: ../output/power_blade_2_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/power_blade_2_diff.png
+
+.. literalinclude:: ../output/power_blade_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _power_punch_2:
+
+Power Punch 2
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/power_punch_2.png|.. image:: ../output/power_punch_2_emulated.png|.. image:: ../output/power_punch_2_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/power_punch_2_diff.png
+
+.. literalinclude:: ../output/power_punch_2_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _predator:
+
+Predator
+========
+
+.. table::
+
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+    |                Original                 |                 Emulated                 |              FCEUX Screenshot              |
+    +=========================================+==========================================+============================================+
+    |.. image:: ../assets/screens/predator.png|.. image:: ../output/predator_emulated.png|.. image:: ../output/predator_screenshot.png|
+    +-----------------------------------------+------------------------------------------+--------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/predator_diff.png
+
+.. literalinclude:: ../output/predator_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _prince_of_persia:
+
+Prince of Persia
+================
+
+.. table::
+
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+    |                    Original                     |                     Emulated                     |                  FCEUX Screenshot                  |
+    +=================================================+==================================================+====================================================+
+    |.. image:: ../assets/screens/prince_of_persia.png|.. image:: ../output/prince_of_persia_emulated.png|.. image:: ../output/prince_of_persia_screenshot.png|
+    +-------------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/prince_of_persia_diff.png
+
+.. literalinclude:: ../output/prince_of_persia_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _princess_tomato_in_salad_kingdom:
+
+Princess Tomato in Salad Kingdom
+================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/princess_tomato_in_salad_kingdom.png|.. image:: ../output/princess_tomato_in_salad_kingdom_emulated.png|.. image:: ../output/princess_tomato_in_salad_kingdom_screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/princess_tomato_in_salad_kingdom_diff.png
+
+.. literalinclude:: ../output/princess_tomato_in_salad_kingdom_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _pro_wrestling:
+
+Pro Wrestling
+=============
+
+.. table::
+
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+    |                   Original                   |                   Emulated                    |                FCEUX Screenshot                 |
+    +==============================================+===============================================+=================================================+
+    |.. image:: ../assets/screens/pro_wrestling.png|.. image:: ../output/pro_wrestling_emulated.png|.. image:: ../output/pro_wrestling_screenshot.png|
+    +----------------------------------------------+-----------------------------------------------+-------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/pro_wrestling_diff.png
+
+.. literalinclude:: ../output/pro_wrestling_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _punisher_the:
+
+Punisher, The
+=============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/punisher_the.png|.. image:: ../output/punisher_the_emulated.png|.. image:: ../output/punisher_the_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/punisher_the_diff.png
+
+.. literalinclude:: ../output/punisher_the_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _puss_n_boots_pero_s_great_adventure:
+
+Puss 'n Boots - Pero's Great Adventure
+======================================
+
+.. table::
+
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+    |                              Original                              |                              Emulated                               |                           FCEUX Screenshot                            |
+    +====================================================================+=====================================================================+=======================================================================+
+    |.. image:: ../assets/screens/puss_n_boots_pero_s_great_adventure.png|.. image:: ../output/puss_n_boots_pero_s_great_adventure_emulated.png|.. image:: ../output/puss_n_boots_pero_s_great_adventure_screenshot.png|
+    +--------------------------------------------------------------------+---------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/puss_n_boots_pero_s_great_adventure_diff.png
+
+.. literalinclude:: ../output/puss_n_boots_pero_s_great_adventure_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _puzznic:
+
+Puzznic
+=======
+
+.. table::
+
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+    |                Original                |                Emulated                 |             FCEUX Screenshot              |
+    +========================================+=========================================+===========================================+
+    |.. image:: ../assets/screens/puzznic.png|.. image:: ../output/puzznic_emulated.png|.. image:: ../output/puzznic_screenshot.png|
+    +----------------------------------------+-----------------------------------------+-------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/puzznic_diff.png
+
+.. literalinclude:: ../output/puzznic_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+

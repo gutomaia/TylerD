@@ -1,0 +1,438 @@
+Results n
+=========
+
+.. _narc:
+
+NARC
+====
+
+.. table::
+
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+    |              Original               |               Emulated               |            FCEUX Screenshot            |
+    +=====================================+======================================+========================================+
+    |.. image:: ../assets/screens/narc.png|.. image:: ../output/narc_emulated.png|.. image:: ../output/narc_screenshot.png|
+    +-------------------------------------+--------------------------------------+----------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/narc_diff.png
+
+.. literalinclude:: ../output/narc_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nes_open_tournament_golf:
+
+NES Open Tournament Golf
+========================
+
+.. table::
+
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+    |                        Original                         |                         Emulated                         |                      FCEUX Screenshot                      |
+    +=========================================================+==========================================================+============================================================+
+    |.. image:: ../assets/screens/nes_open_tournament_golf.png|.. image:: ../output/nes_open_tournament_golf_emulated.png|.. image:: ../output/nes_open_tournament_golf_screenshot.png|
+    +---------------------------------------------------------+----------------------------------------------------------+------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nes_open_tournament_golf_diff.png
+
+.. literalinclude:: ../output/nes_open_tournament_golf_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nes_test_cart_official_nintendo_:
+
+NES Test Cart (Official Nintendo)
+=================================
+
+.. table::
+
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+    |                            Original                             |                             Emulated                             |                          FCEUX Screenshot                          |
+    +=================================================================+==================================================================+====================================================================+
+    |.. image:: ../assets/screens/nes_test_cart_official_nintendo_.png|.. image:: ../output/nes_test_cart_official_nintendo__emulated.png|.. image:: ../output/nes_test_cart_official_nintendo__screenshot.png|
+    +-----------------------------------------------------------------+------------------------------------------------------------------+--------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nes_test_cart_official_nintendo__diff.png
+
+.. literalinclude:: ../output/nes_test_cart_official_nintendo__diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nfl_football:
+
+NFL Football
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/nfl_football.png|.. image:: ../output/nfl_football_emulated.png|.. image:: ../output/nfl_football_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nfl_football_diff.png
+
+.. literalinclude:: ../output/nfl_football_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nigel_mansell_s_world_championship_challenge:
+
+Nigel Mansell's World Championship Challenge
+============================================
+
+.. table::
+
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+    |                                  Original                                   |                                   Emulated                                   |                                FCEUX Screenshot                                |
+    +=============================================================================+==============================================================================+================================================================================+
+    |.. image:: ../assets/screens/nigel_mansell_s_world_championship_challenge.png|.. image:: ../output/nigel_mansell_s_world_championship_challenge_emulated.png|.. image:: ../output/nigel_mansell_s_world_championship_challenge_screenshot.png|
+    +-----------------------------------------------------------------------------+------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nigel_mansell_s_world_championship_challenge_diff.png
+
+.. literalinclude:: ../output/nigel_mansell_s_world_championship_challenge_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nightmare_on_elm_street_a:
+
+Nightmare on Elm Street, A
+==========================
+
+.. table::
+
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+    |                         Original                         |                         Emulated                          |                      FCEUX Screenshot                       |
+    +==========================================================+===========================================================+=============================================================+
+    |.. image:: ../assets/screens/nightmare_on_elm_street_a.png|.. image:: ../output/nightmare_on_elm_street_a_emulated.png|.. image:: ../output/nightmare_on_elm_street_a_screenshot.png|
+    +----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nightmare_on_elm_street_a_diff.png
+
+.. literalinclude:: ../output/nightmare_on_elm_street_a_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nightshade:
+
+Nightshade
+==========
+
+.. table::
+
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+    |                 Original                  |                  Emulated                  |               FCEUX Screenshot               |
+    +===========================================+============================================+==============================================+
+    |.. image:: ../assets/screens/nightshade.png|.. image:: ../output/nightshade_emulated.png|.. image:: ../output/nightshade_screenshot.png|
+    +-------------------------------------------+--------------------------------------------+----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nightshade_diff.png
+
+.. literalinclude:: ../output/nightshade_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ninja_crusaders:
+
+Ninja Crusaders
+===============
+
+.. table::
+
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+    |                    Original                    |                    Emulated                     |                 FCEUX Screenshot                  |
+    +================================================+=================================================+===================================================+
+    |.. image:: ../assets/screens/ninja_crusaders.png|.. image:: ../output/ninja_crusaders_emulated.png|.. image:: ../output/ninja_crusaders_screenshot.png|
+    +------------------------------------------------+-------------------------------------------------+---------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ninja_crusaders_diff.png
+
+.. literalinclude:: ../output/ninja_crusaders_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ninja_gaiden:
+
+Ninja Gaiden
+============
+
+.. table::
+
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+    |                  Original                   |                   Emulated                   |                FCEUX Screenshot                |
+    +=============================================+==============================================+================================================+
+    |.. image:: ../assets/screens/ninja_gaiden.png|.. image:: ../output/ninja_gaiden_emulated.png|.. image:: ../output/ninja_gaiden_screenshot.png|
+    +---------------------------------------------+----------------------------------------------+------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ninja_gaiden_diff.png
+
+.. literalinclude:: ../output/ninja_gaiden_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ninja_gaiden_ii_the_dark_sword_of_chaos:
+
+Ninja Gaiden II - The Dark Sword of Chaos
+=========================================
+
+.. table::
+
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+    |                                Original                                |                                Emulated                                 |                             FCEUX Screenshot                              |
+    +========================================================================+=========================================================================+===========================================================================+
+    |.. image:: ../assets/screens/ninja_gaiden_ii_the_dark_sword_of_chaos.png|.. image:: ../output/ninja_gaiden_ii_the_dark_sword_of_chaos_emulated.png|.. image:: ../output/ninja_gaiden_ii_the_dark_sword_of_chaos_screenshot.png|
+    +------------------------------------------------------------------------+-------------------------------------------------------------------------+---------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ninja_gaiden_ii_the_dark_sword_of_chaos_diff.png
+
+.. literalinclude:: ../output/ninja_gaiden_ii_the_dark_sword_of_chaos_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ninja_gaiden_iii_the_ancient_ship_of_doom:
+
+Ninja Gaiden III - The Ancient Ship of Doom
+===========================================
+
+.. table::
+
+    +--------------------------------------------------------------------------+---------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+    |                                 Original                                 |                                 Emulated                                  |                              FCEUX Screenshot                               |
+    +==========================================================================+===========================================================================+=============================================================================+
+    |.. image:: ../assets/screens/ninja_gaiden_iii_the_ancient_ship_of_doom.png|.. image:: ../output/ninja_gaiden_iii_the_ancient_ship_of_doom_emulated.png|.. image:: ../output/ninja_gaiden_iii_the_ancient_ship_of_doom_screenshot.png|
+    +--------------------------------------------------------------------------+---------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ninja_gaiden_iii_the_ancient_ship_of_doom_diff.png
+
+.. literalinclude:: ../output/ninja_gaiden_iii_the_ancient_ship_of_doom_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _ninja_kid:
+
+Ninja Kid
+=========
+
+.. table::
+
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+    |                 Original                 |                 Emulated                  |              FCEUX Screenshot               |
+    +==========================================+===========================================+=============================================+
+    |.. image:: ../assets/screens/ninja_kid.png|.. image:: ../output/ninja_kid_emulated.png|.. image:: ../output/ninja_kid_screenshot.png|
+    +------------------------------------------+-------------------------------------------+---------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/ninja_kid_diff.png
+
+.. literalinclude:: ../output/ninja_kid_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nintendo_world_cup:
+
+Nintendo World Cup
+==================
+
+.. table::
+
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+    |                     Original                      |                      Emulated                      |                   FCEUX Screenshot                   |
+    +===================================================+====================================================+======================================================+
+    |.. image:: ../assets/screens/nintendo_world_cup.png|.. image:: ../output/nintendo_world_cup_emulated.png|.. image:: ../output/nintendo_world_cup_screenshot.png|
+    +---------------------------------------------------+----------------------------------------------------+------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nintendo_world_cup_diff.png
+
+.. literalinclude:: ../output/nintendo_world_cup_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _nobunaga_s_ambition:
+
+Nobunaga's Ambition
+===================
+
+.. table::
+
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+    |                      Original                      |                      Emulated                       |                   FCEUX Screenshot                    |
+    +====================================================+=====================================================+=======================================================+
+    |.. image:: ../assets/screens/nobunaga_s_ambition.png|.. image:: ../output/nobunaga_s_ambition_emulated.png|.. image:: ../output/nobunaga_s_ambition_screenshot.png|
+    +----------------------------------------------------+-----------------------------------------------------+-------------------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/nobunaga_s_ambition_diff.png
+
+.. literalinclude:: ../output/nobunaga_s_ambition_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
+.. _north_south:
+
+North & South
+=============
+
+.. table::
+
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+    |                  Original                  |                  Emulated                   |               FCEUX Screenshot                |
+    +============================================+=============================================+===============================================+
+    |.. image:: ../assets/screens/north_south.png|.. image:: ../output/north_south_emulated.png|.. image:: ../output/north_south_screenshot.png|
+    +--------------------------------------------+---------------------------------------------+-----------------------------------------------+
+
+.. raw:: html
+
+    <div style="display: flex; align-items: center;">
+
+.. image:: ../output/north_south_diff.png
+
+.. literalinclude:: ../output/north_south_diff.txt
+   :language: rst
+   :linenos:
+   :emphasize-lines: 2,4,6
+
+.. raw:: html
+
+    </div>
+
+
