@@ -6,6 +6,7 @@ TylerD
    :caption: Contents:
 
    overview
+   results
    gamelist
    dependencies
 
